@@ -1,0 +1,8 @@
+archive/
+assets/review/
+data/review_text/
+*.log
+*.xlsx
+__pycache__/
+.DS_Store
+.codebuddy/

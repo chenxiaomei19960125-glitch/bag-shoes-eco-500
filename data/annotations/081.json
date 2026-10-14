@@ -1,0 +1,7 @@
+[
+ {"key":"r403","framework":"图文型","type":"白底单图","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"卖点直述","hook_text":"隐形增高9CM","price":false,"story":"白鞋静态电商图","confidence":"高"},
+ {"key":"r404","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"无钩子","hook_text":"","price":false,"story":"黑皮鞋系带试穿特写","confidence":"高"},
+ {"key":"r405","framework":"街拍穿搭型","type":"路人穿搭种草","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"酒店大堂黄背包街拍与细节演示","confidence":"中"},
+ {"key":"r406","framework":"产品展示型","type":"上脚上身局部","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":4,"hook":"好奇种草","hook_text":"","price":false,"story":"女生开箱白跑鞋试穿展示","confidence":"中"},
+ {"key":"r407","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"痛点人群点名","hook_text":"为什么要给另外一半买隐形增高8公分的鞋","price":false,"story":"情侣身高梗剧情：一米55穿出163大长腿","confidence":"高"}
+]

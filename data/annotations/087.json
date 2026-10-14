@@ -1,0 +1,7 @@
+[
+ {"key":"r433","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":9,"hook":"好奇种草","hook_text":"你只知道卡拉羊行李箱很能装","price":false,"story":"情侣推箱+宠物箱剧情，云朵箱3.0Pro加厚升级","confidence":"高"},
+ {"key":"r434","framework":"产品展示型","type":"手持转面展示","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":6,"hook":"价格利益","hook_text":"商务场合皮带别乱带 到手998","price":true,"story":"棕色皮带弯折、扣头与正装上身","confidence":"高"},
+ {"key":"r435","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"卖点直述","hook_text":"头层牛皮 橡胶防滑大底 不磨脚","price":false,"story":"黑旋转扣鞋系鞋与踩地展示","confidence":"高"},
+ {"key":"r436","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"我看你天天背来背去 这是GBDAVID家的金砖包吧","price":false,"story":"男生试背紫棕金砖包对话剧情","confidence":"高"},
+ {"key":"r437","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"红毯与石桌上黑运动鞋摆拍","confidence":"高"}
+]

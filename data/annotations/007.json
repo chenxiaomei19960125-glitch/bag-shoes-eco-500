@@ -1,0 +1,7 @@
+[
+ {"key":"r33","framework":"产品展示型","type":"开箱展示","person":"真人露脸主导","face3":true,"product_first":1.5,"product_frames":9,"hook":"好奇种草","hook_text":"","price":false,"story":"女生沙发上开箱蓝黑跑鞋，手持展示鞋面鞋底细节","confidence":"高"},
+ {"key":"r34","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"无钩子","hook_text":"","price":false,"story":"米色棉拖鞋上脚、弯折、鞋垫取出摆拍，无字幕","confidence":"高"},
+ {"key":"r35","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"无钩子","hook_text":"","price":false,"story":"深棕老花小背包手持转面、打开、斜挎上身展示","confidence":"高"},
+ {"key":"r36","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":1.5,"product_frames":9,"hook":"价格利益","hook_text":"冬天怕冷的可以过来看一下","price":true,"story":"反季清货贴片+加绒棉鞋上脚摆拍，字幕讲防滑保暖","confidence":"中"},
+ {"key":"r37","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"棕色马丁靴上脚多场景走动特写，无字幕","confidence":"高"}
+]

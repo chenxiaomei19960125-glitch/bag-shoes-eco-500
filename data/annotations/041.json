@@ -1,0 +1,7 @@
+[
+ {"key":"r203","framework":"工厂溯源型","type":"老板带看工厂","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":3,"hook":"悬念反常识","hook_text":"做拖鞋都不用戴口罩","price":false,"story":"车间老板口播环保无异味+紫拖鞋水洗实底演示","confidence":"高"},
+ {"key":"r204","framework":"人设口播型","type":"反常识避坑口播","person":"真人露脸主导","face3":true,"product_first":25,"product_frames":2,"hook":"痛点人群点名","hook_text":"女人春天最好少穿这些鞋子","price":false,"story":"女主持口播少穿运动鞋，气质软皮女鞋鞋盒展示","confidence":"高"},
+ {"key":"r205","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"无钩子","hook_text":"","price":false,"story":"棕色棉鞋室内试穿、弯折特写","confidence":"高"},
+ {"key":"r206","framework":"测评实验型","type":"破坏极限测试","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"视觉奇观","hook_text":"","price":false,"story":"户外鞋踩泥水、称重、汽车碾压等混剪测试","confidence":"高"},
+ {"key":"r207","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":12,"product_frames":3,"hook":"无钩子","hook_text":"","price":false,"story":"紫跑鞋泥地踩踏+铝箱开箱摆拍","confidence":"中"}
+]

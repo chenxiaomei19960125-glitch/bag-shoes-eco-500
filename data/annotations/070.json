@@ -1,0 +1,7 @@
+[
+ {"key":"r348","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"棕色托特包开合与收纳演示","confidence":"高"},
+ {"key":"r349","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色男鞋按压弯折摆拍","confidence":"高"},
+ {"key":"r350","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"好奇种草","hook_text":"老婆出门老是只穿这一双鞋","price":false,"story":"黑色奶奶鞋试穿+口播字幕","confidence":"中"},
+ {"key":"r351","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色男鞋系带弯折特写","confidence":"高"},
+ {"key":"r352","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":8,"product_frames":5,"hook":"痛点人群点名","hook_text":"妈妈总是一双鞋穿到鞋底磨薄","price":true,"story":"回力健步鞋街头试穿+给妈妈买的口播字幕","confidence":"中"}
+]

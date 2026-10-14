@@ -1,0 +1,7 @@
+[
+ {"key":"r123","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":5,"product_frames":5,"hook":"好奇种草","hook_text":"哇，她穿的是LeeCooper哎","price":false,"story":"白裙坐姿口播+米色鞋上脚：显比例、一周七天可穿","confidence":"中"},
+ {"key":"r124","framework":"产品展示型","type":"功能细节演示","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":9,"hook":"价格利益","hook_text":"狗哥蜗牛垫三种高度 适配任何鞋型","price":true,"story":"163/168cm三档高度对比+蜗牛底胶设计，直播间第二双半价","confidence":"高"},
+ {"key":"r125","framework":"图文型","type":"海报轮播","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"无钩子","hook_text":"Chrisdien Deny","price":false,"story":"车前品牌海报静态图","confidence":"中"},
+ {"key":"r126","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"真人露脸辅助","face3":false,"product_first":3,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"跑步男+白蓝鞋桌面上脚混剪特写","confidence":"中"},
+ {"key":"r127","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"痛点人群点名","hook_text":"终于找到了一双不累脚的尖头高跟鞋","price":false,"story":"黑色玛丽珍鞋上脚与手持：宽鞋头、魔术贴、油蜡皮","confidence":"高"}
+]

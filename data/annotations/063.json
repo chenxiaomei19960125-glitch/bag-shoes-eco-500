@@ -1,0 +1,7 @@
+[
+ {"key":"r313","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":7,"hook":"好奇种草","hook_text":"这个是小野马的感觉","price":false,"story":"咖啡厅闺蜜聊棕色短靴，手机展示朋友穿搭风格","confidence":"高"},
+ {"key":"r314","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"悬念反常识","hook_text":"这个不叫跟","price":false,"story":"女生举鞋讲小布鞋厚度与安全感","confidence":"高"},
+ {"key":"r315","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"痛点人群点名","hook_text":"像我这种身高1米7的 穿上直接秒变1米8","price":false,"story":"白色增高鞋上脚+打版字幕口播","confidence":"中"},
+ {"key":"r316","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"多色高跟鞋试穿特写","confidence":"高"},
+ {"key":"r317","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"无钩子","hook_text":"","price":false,"story":"黑拼厚底帆布鞋开袋与试穿特写","confidence":"高"}
+]

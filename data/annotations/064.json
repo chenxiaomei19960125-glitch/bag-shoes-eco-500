@@ -1,0 +1,7 @@
+[
+ {"key":"r318","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"无钩子","hook_text":"","price":false,"story":"黑色小包手持、开合、收纳演示","confidence":"高"},
+ {"key":"r319","framework":"人设口播型","type":"叫卖促销口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"袋鼠这款包包清仓了 两折再减50","price":true,"story":"店内双女主播试背黑双肩包清仓口播","confidence":"高"},
+ {"key":"r320","framework":"产品展示型","type":"功能细节演示","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":4,"hook":"痛点人群点名","hook_text":"我家所有重要的证件都在这了","price":false,"story":"女生演示文件收纳册：夹层、卡位、侧边","confidence":"高"},
+ {"key":"r321","framework":"直播切片型","type":"直播间讲解","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"情感送礼","hook_text":"520情人节礼物 让她眼前一亮","price":false,"story":"多场景黑菱格小包直播促销展示","confidence":"中"},
+ {"key":"r322","framework":"剧情型","type":"搭讪问询剧","person":"真人露脸主导","face3":true,"product_first":5,"product_frames":4,"hook":"冲突对话","hook_text":"美女你这个斜挎包好好看","price":true,"story":"楼梯间问包：香港古乔大金包、100多、发链接","confidence":"高"}
+]

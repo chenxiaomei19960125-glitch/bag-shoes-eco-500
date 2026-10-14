@@ -1,0 +1,7 @@
+[
+ {"key":"r133","framework":"产品展示型","type":"收纳容量演示","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"悬念反常识","hook_text":"我收拾行李的方式","price":false,"story":"卧室演示收纳：大件礼品盒压结实、对开设计","confidence":"中"},
+ {"key":"r134","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"卖点直述","hook_text":"爆款热卖","price":false,"story":"黑色厚底靴多场景试穿+爆款热卖贴片","confidence":"中"},
+ {"key":"r135","framework":"测评实验型","type":"破坏极限测试","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"视觉奇观","hook_text":"","price":false,"story":"美工刀刮鞋底、踩泥、跷跷板测试白蓝跑鞋","confidence":"高"},
+ {"key":"r136","framework":"产品展示型","type":"手持转面展示","person":"真人露脸辅助","face3":false,"product_first":3,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"街头买鞋+米色厚底鞋弯折按压演示","confidence":"中"},
+ {"key":"r137","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":25,"product_frames":2,"hook":"价格利益","hook_text":"之前在线下专柜卖到1000多","price":true,"story":"白衣女镜前全身穿搭口播：买贵了、黑色更酷、可登山","confidence":"低"}
+]

@@ -1,0 +1,7 @@
+[
+ {"key":"r18","framework":"剧情型","type":"搭讪问询剧","person":"真人露脸主导","face3":true,"product_first":5,"product_frames":6,"hook":"冲突对话","hook_text":"哎不是大姐几天没见","price":true,"story":"0-8秒街头对话夸鞋；12-29.5秒鞋特写讲防水防油、便宜一半","confidence":"高"},
+ {"key":"r19","framework":"人设口播型","type":"叫卖促销口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"一条皮带值998吗？","price":true,"story":"皮带特写+男人口播，字幕998元、头层牛皮、3.3厘米宽度","confidence":"高"},
+ {"key":"r20","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":5,"product_frames":6,"hook":"好奇种草","hook_text":"在LeeCooper这里一定是可以选到适合你风格的鞋子","price":false,"story":"0-8秒坐姿口播；12-29.5秒米色德训鞋上脚走动特写","confidence":"高"},
+ {"key":"r21","framework":"产品展示型","type":"收纳容量演示","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":9,"hook":"悬念反常识","hook_text":"这才是行李箱的正确打开方式","price":false,"story":"女生演示行李箱翻盖式开口，证件耳机一目了然、装长款外套","confidence":"高"},
+ {"key":"r22","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":1.5,"product_frames":9,"hook":"反常识避坑","hook_text":"像我一样的懒人千万别用这个行李箱","price":false,"story":"女生演示懒人行李箱：衣服不用叠、大体积收纳整齐","confidence":"高"}
+]

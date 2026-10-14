@@ -1,0 +1,7 @@
+[
+ {"key": "r3", "framework": "工厂溯源型", "type": "原料工艺奇观", "person": "真人露脸辅助", "face3": true, "product_first": 29.5, "product_frames": 1, "hook": "视觉奇观", "hook_text": "", "price": false, "story": "0–5秒溪边多人搓洗大张皮料、孩子整理皮料；12–25秒车间裁切缝制皮料；29.5秒鞋子成型", "confidence": "中"},
+ {"key": "r4", "framework": "街拍穿搭型", "type": "路人穿搭种草", "person": "真人露脸主导", "face3": true, "product_first": 5, "product_frames": 4, "hook": "好奇种草", "hook_text": "哇，她穿的是LeeCooper哎", "price": false, "story": "0–3秒白裙女生+鞋款圆形贴片“她穿的是LeeCooper”；5–16秒上脚系鞋、走动；20–29.5秒换另一位女生同款穿搭", "confidence": "高"},
+ {"key": "r5", "framework": "产品展示型", "type": "手持转面展示", "person": "仅身体局部", "face3": false, "product_first": 0.3, "product_frames": 7, "hook": "无钩子", "hook_text": "", "price": false, "story": "0–3秒咖啡店吧台手提棕色托特包；5–12秒包身、内里打开；16秒背影上身", "confidence": "高"},
+ {"key": "r6", "framework": "产品展示型", "type": "上脚上身局部", "person": "仅身体局部", "face3": false, "product_first": 0.3, "product_frames": 9, "hook": "无钩子", "hook_text": "", "price": false, "story": "0–8秒紫色健步鞋上脚踩踏特写；12–25秒换黑色同款上脚，全程无脸无字幕", "confidence": "高"},
+ {"key": "r7", "framework": "测评实验型", "type": "破坏极限测试", "person": "仅身体局部", "face3": false, "product_first": 0.3, "product_frames": 10, "hook": "测试结果悬念", "hook_text": "危险动作请勿模仿", "price": false, "story": "0–3秒徒步鞋踩炭火；5秒泼啤酒防水；8–16秒细节、泼水、鞋底防滑特写；20–29.5秒雪地与户外上脚", "confidence": "高"}
+]

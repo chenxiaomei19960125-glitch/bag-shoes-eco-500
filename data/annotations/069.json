@@ -1,0 +1,7 @@
+[
+ {"key":"r343","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑棕男鞋手持与橙圆盒摆拍","confidence":"高"},
+ {"key":"r344","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"棕色乐福鞋试穿与鞋底特写","confidence":"高"},
+ {"key":"r345","framework":"测评实验型","type":"防水耐磨演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"灰蓝户外鞋夜店布景泼水与踩踏混剪","confidence":"中"},
+ {"key":"r346","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"古驰风白鞋量宽、上脚试穿","confidence":"中"},
+ {"key":"r347","framework":"产品展示型","type":"其他·婴儿裤","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":5,"hook":"痛点人群点名","hook_text":"家里有穿尿不湿的宝宝","price":false,"story":"婴儿裤弹力腰演示，非鞋包品类","confidence":"中"}
+]

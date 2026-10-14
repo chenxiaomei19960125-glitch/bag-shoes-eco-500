@@ -1,0 +1,7 @@
+[
+ {"key":"r48","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"无钩子","hook_text":"","price":false,"story":"棕色短靴室内外上脚走动特写，无字幕","confidence":"高"},
+ {"key":"r49","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"无钩子","hook_text":"","price":false,"story":"老花鞋盒上白色小白鞋摆拍、上脚系带特写","confidence":"高"},
+ {"key":"r50","framework":"图文型","type":"电商海报轮播","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"卖点直述","hook_text":"官方正品有防伪 里外真皮","price":false,"story":"棕色男鞋静态电商图，标注软、真皮、防伪","confidence":"高"},
+ {"key":"r51","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":7,"hook":"价格利益","hook_text":"给我老公买了一个小斜挎包","price":false,"story":"机场口播+黑色尼龙小包细节演示：质感、防水、前袋","confidence":"高"},
+ {"key":"r52","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"无钩子","hook_text":"","price":false,"story":"灰色健步鞋配袜子试穿、弯折特写，无字幕","confidence":"高"}
+]

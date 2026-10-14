@@ -1,0 +1,7 @@
+[
+ {"key":"r163","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":1.5,"product_frames":9,"hook":"价格利益","hook_text":"8000多的路易卡迪包包","price":true,"story":"夜色街头口播女王包：菱格、意大利进口皮、隔层好","confidence":"高"},
+ {"key":"r164","framework":"产品展示型","type":"功能细节演示","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"","price":false,"story":"INTCO手套开箱、拉伸、揉面演示","confidence":"高"},
+ {"key":"r165","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"无钩子","hook_text":"","price":false,"story":"橙盒上黑花穆勒鞋堆叠与紫垫试穿摆拍","confidence":"高"},
+ {"key":"r166","framework":"图文型","type":"电商卡片轮播","person":"真人露脸辅助","face3":false,"product_first":5,"product_frames":5,"hook":"好奇种草","hook_text":"These sneakers are a game-changer","price":false,"story":"海外社媒截图卡片+洞洞鞋街拍与上脚特写","confidence":"中"},
+ {"key":"r167","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"黑色雪地靴手持展示与镜前自拍抬腿","confidence":"中"}
+]

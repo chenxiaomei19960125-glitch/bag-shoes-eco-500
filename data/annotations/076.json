@@ -1,0 +1,7 @@
+[
+ {"key":"r378","framework":"产品展示型","type":"上脚上身局部","person":"真人露脸辅助","face3":true,"product_first":3,"product_frames":6,"hook":"卖点直述","hook_text":"我们家就是增高鞋 5.5公分","price":false,"story":"米色增高鞋街拍+口播字幕","confidence":"中"},
+ {"key":"r379","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"都在抢袋鼠这款牛皮包 全场5折","price":true,"story":"库房清仓剧+黑色挎包街拍混剪","confidence":"高"},
+ {"key":"r380","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"全网爆款","price":true,"story":"黑色厚底凉鞋红毯摆拍试穿","confidence":"中"},
+ {"key":"r381","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"痛点人群点名","hook_text":"弯腰穿鞋对他们是莫大的负担","price":false,"story":"免弯腰鞋送礼剧情+专利证书贴片","confidence":"高"},
+ {"key":"r382","framework":"测评实验型","type":"防水耐磨演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"灰蓝户外鞋泼水、割草机旁多场景混剪","confidence":"中"}
+]

@@ -1,0 +1,7 @@
+[
+ {"key":"r408","framework":"图文型","type":"电商卡片轮播","person":"真人露脸辅助","face3":false,"product_first":16,"product_frames":2,"hook":"卖点直述","hook_text":"OOTD NEW LOOK","price":false,"story":"模特OOTD卡片+实拍混剪","confidence":"中"},
+ {"key":"r409","framework":"产品展示型","type":"上脚上身局部","person":"真人露脸辅助","face3":true,"product_first":5,"product_frames":5,"hook":"痛点人群点名","hook_text":"想要穿裙子好看又要穿裤子百搭","price":false,"story":"LeeCooper德训鞋口播+试穿：6.5cm隐形增高","confidence":"中"},
+ {"key":"r410","framework":"街拍穿搭型","type":"路人穿搭种草","person":"真人露脸主导","face3":false,"product_first":3,"product_frames":2,"hook":"无钩子","hook_text":"","price":false,"story":"DIOUGENS白裤街拍混剪","confidence":"中"},
+ {"key":"r411","framework":"剧情型","type":"搭讪问询剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"冲突对话","hook_text":"哇这个美女的鞋子好好看呐","price":false,"story":"街头情侣问鞋：一米55、8厘米增高看不出来","confidence":"高"},
+ {"key":"r412","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"痛点人群点名","hook_text":"像我这种身高1米7的 穿上秒变1米8","price":false,"story":"白增高鞋上脚+口播字幕","confidence":"中"}
+]

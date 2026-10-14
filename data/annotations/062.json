@@ -1,0 +1,7 @@
+[
+ {"key":"r308","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"红展柜白蓝跑鞋戴手套摆拍","confidence":"高"},
+ {"key":"r309","framework":"未复核","type":"未复核","person":"无人物","face3":false,"product_first":null,"product_frames":0,"hook":"无钩子","hook_text":"","price":false,"story":"素材抽取失败，无法复核","confidence":"低"},
+ {"key":"r310","framework":"未复核","type":"未复核","person":"无人物","face3":false,"product_first":null,"product_frames":0,"hook":"无钩子","hook_text":"","price":false,"story":"素材抽取失败，无法复核","confidence":"低"},
+ {"key":"r311","framework":"未复核","type":"未复核","person":"无人物","face3":false,"product_first":null,"product_frames":0,"hook":"无钩子","hook_text":"","price":false,"story":"素材抽取失败，无法复核","confidence":"低"},
+ {"key":"r312","framework":"未复核","type":"未复核","person":"无人物","face3":false,"product_first":null,"product_frames":0,"hook":"无钩子","hook_text":"","price":false,"story":"素材抽取失败，无法复核","confidence":"低"}
+]

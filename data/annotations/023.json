@@ -1,0 +1,7 @@
+[
+ {"key":"r113","framework":"测评实验型","type":"破坏极限测试","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"视觉奇观","hook_text":"","price":false,"story":"白鞋踩泥、涉水，美工刀刮鞋面破坏测试","confidence":"高"},
+ {"key":"r114","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色男皮鞋麻布背景摆拍、按压弯折特写","confidence":"高"},
+ {"key":"r115","framework":"剧情型","type":"搭讪问询剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":5,"hook":"冲突对话","hook_text":"你这个包包是什么包包","price":true,"story":"红墙店内问包：大金豆、全标LOGO、直播间优惠活动","confidence":"高"},
+ {"key":"r116","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"多色乐福鞋摆拍、白袜试穿、按压鞋底特写","confidence":"高"},
+ {"key":"r117","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"真人露脸辅助","face3":false,"product_first":null,"product_frames":0,"hook":"好奇种草","hook_text":"LULU FRIEND","price":false,"story":"影棚模特背心工装裤摆拍，未见鞋品主体，低置信","confidence":"低"}
+]

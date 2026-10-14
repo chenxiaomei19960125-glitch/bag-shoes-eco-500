@@ -1,0 +1,7 @@
+[
+ {"key":"r128","framework":"剧情型","type":"搭讪问询剧","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":8,"hook":"冲突对话","hook_text":"不是你卷疯了吧 你给我一折就卖了","price":true,"story":"店内两女对话：一折、隐形增高8公分、来直播间看","confidence":"高"},
+ {"key":"r129","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"真人露脸辅助","face3":false,"product_first":3,"product_frames":8,"hook":"好奇种草","hook_text":"为什么跑步时建议要穿","price":false,"story":"跑步+涉水+居家多场景蓝鞋混剪，末尾手持黑鞋","confidence":"中"},
+ {"key":"r130","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"好奇种草","hook_text":"如果你抢到了 孟姐同款","price":false,"story":"街头腿部特写棕色鞋上脚走动","confidence":"中"},
+ {"key":"r131","framework":"产品展示型","type":"手持转面展示","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"女生双手持两双黑色袜套鞋换面展示","confidence":"高"},
+ {"key":"r132","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"悬念反常识","hook_text":"收到一个差评 说我们家的鞋太富了","price":false,"story":"差评反转口播字幕+棕色鞋街头踢腿上脚","confidence":"中"}
+]

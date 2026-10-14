@@ -1,0 +1,7 @@
+[
+ {"key":"r273","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"好奇种草","hook_text":"LeeCooper老爹鞋真的太好看了","price":false,"story":"灰老爹鞋箱面试穿与街头走动","confidence":"中"},
+ {"key":"r274","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":29.5,"product_frames":1,"hook":"痛点人群点名","hook_text":"增高6cm","price":false,"story":"街头闺蜜身高对比对话剧，末尾路人鞋特写","confidence":"中"},
+ {"key":"r275","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"卖点直述","hook_text":"一双好的球鞋就应该是这样的","price":false,"story":"白蓝网球鞋弯折、鞋底碳板特写","confidence":"高"},
+ {"key":"r276","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑米德训鞋多场景上脚混剪","confidence":"高"},
+ {"key":"r277","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"双手举蕾丝增高鞋换角度展示","confidence":"中"}
+]

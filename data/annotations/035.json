@@ -1,0 +1,7 @@
+[
+ {"key":"r173","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":7,"hook":"价格利益","hook_text":"30多块钱 给我老公买了一个小包","price":true,"story":"黑色尼龙小包口播：防刮耐磨、隐形口袋、三层分区","confidence":"高"},
+ {"key":"r174","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":8,"hook":"痛点人群点名","hook_text":"一双能让小个子逆袭一米7的老爹鞋","price":false,"story":"橙背景棕色厚底老爹鞋试穿摆拍","confidence":"中"},
+ {"key":"r175","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"乐福鞋鞋墙摆拍、试穿与手持展示","confidence":"高"},
+ {"key":"r176","framework":"产品展示型","type":"开箱展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"沉浸式体验我的行李箱","price":false,"story":"白色铝框箱开箱：海关锁、YKK拉链、1:9深仓、静音轮","confidence":"高"},
+ {"key":"r177","framework":"测评实验型","type":"防水耐磨演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"视觉奇观","hook_text":"","price":false,"story":"户外鞋踩啤酒瓶、冰面、泥浆测试混剪","confidence":"高"}
+]

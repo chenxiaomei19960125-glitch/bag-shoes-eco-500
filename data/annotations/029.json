@@ -1,0 +1,7 @@
+[
+ {"key":"r143","framework":"产品展示型","type":"其他·眼镜特写","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"卖点直述","hook_text":"整体无框设计不挑脸型","price":false,"story":"手持眼镜转面与铰链特写","confidence":"中"},
+ {"key":"r144","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"灰色旋钮鞋开合、按压与试穿演示","confidence":"高"},
+ {"key":"r145","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"忙中偷闲来团建一次","price":false,"story":"团建场景口播魔方箱：多8升容量、20吋26吋对比","confidence":"高"},
+ {"key":"r146","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":3,"hook":"好奇种草","hook_text":"就是我脚上的这双吧 啊可可曲奇","price":false,"story":"坐姿口播孟姐同款：秀气显高、小个子本命单品","confidence":"高"},
+ {"key":"r147","framework":"人设口播型","type":"老板店主口播","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":3,"hook":"身份人设","hook_text":"41岁女鞋主理人每天在忙什么","price":false,"story":"主理人讲反复改版楦型，轻量化7公分德训","confidence":"高"}
+]

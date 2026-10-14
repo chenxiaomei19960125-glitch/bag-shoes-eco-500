@@ -1,0 +1,7 @@
+[
+ {"key":"r368","framework":"工厂溯源型","type":"工厂车间实拍","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":4,"hook":"身份人设","hook_text":"卡拉羊来广交会啦 云朵箱3.0被外商围观","price":false,"story":"广交会展台讲解：纯PC+金属粉末、6米高空跌落","confidence":"高"},
+ {"key":"r369","framework":"人设口播型","type":"反常识避坑口播","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"反常识避坑","hook_text":"听说你在买行李箱 千万不能碰","price":false,"story":"口播对比单双层拉链、内衬异味","confidence":"高"},
+ {"key":"r370","framework":"产品展示型","type":"开箱展示","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"痛点人群点名","hook_text":"我妈那种 一点都不挤脚","price":false,"story":"开箱黑雪地靴：绵羊毛鞋垫护脚","confidence":"高"},
+ {"key":"r371","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"这次出门我们带了4个行李箱","price":false,"story":"四箱对比剧：19开、放饮品、防水贴","confidence":"高"},
+ {"key":"r372","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":7,"hook":"价格利益","hook_text":"这奥康的鞋子好看是好看 便宜嘛","price":true,"story":"夫妻对话讲奥康冲销量、5公分增高","confidence":"高"}
+]

@@ -1,0 +1,7 @@
+[
+ {"key":"r68","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"无钩子","hook_text":"","price":false,"story":"棕色男鞋系带与上脚特写，无字幕","confidence":"高"},
+ {"key":"r69","framework":"测评实验型","type":"防水耐磨演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"无钩子","hook_text":"","price":false,"story":"黑色户外鞋棍戳、踩踏与鞋底特写","confidence":"中"},
+ {"key":"r70","framework":"产品展示型","type":"手持转面展示","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":10,"hook":"卖点直述","hook_text":"其实男人的鞋子不在于多","price":false,"story":"蓝色豆豆鞋弯折、翻鞋底演示，末尾女士手持讲解","confidence":"高"},
+ {"key":"r71","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"霓虹布景蓝白老爹鞋上脚摆拍特写，无可读字幕","confidence":"中"},
+ {"key":"r72","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":1.5,"product_frames":8,"hook":"价格利益","hook_text":"终于降价了 老公果断抢720双","price":true,"story":"反季清货贴片+老北京布鞋多场景上脚试穿","confidence":"中"}
+]

@@ -1,0 +1,7 @@
+[
+ {"key":"r158","framework":"人设口播型","type":"叫卖促销口播","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"价格利益","hook_text":"清仓处理 一批老北京布鞋","price":true,"story":"鞋墙取鞋+断码清仓口播，上脚试穿","confidence":"高"},
+ {"key":"r159","framework":"人设口播型","type":"老板店主口播","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":3,"hook":"悬念反常识","hook_text":"如果这双鞋你收到货不是全皮的","price":false,"story":"男老板承诺“不是全皮来晋江找我”+白鞋沙发试穿","confidence":"高"},
+ {"key":"r160","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":1.5,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"白色洞洞鞋橙箱上脚试穿特写","confidence":"高"},
+ {"key":"r161","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"白蓝跑鞋踩钢钉、泥土多场景混剪，带测试声明字幕","confidence":"中"},
+ {"key":"r162","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑豆豆鞋弯折、鞋底、节日背景手持展示","confidence":"高"}
+]

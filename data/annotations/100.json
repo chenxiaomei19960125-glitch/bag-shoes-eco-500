@@ -1,0 +1,7 @@
+[
+ {"key":"r498","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑皮鞋多双堆叠摆拍","confidence":"高"},
+ {"key":"r499","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色凉鞋试穿与量尺演示","confidence":"高"},
+ {"key":"r500","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"悬念反常识","hook_text":"上班这件事 看起来每天都一样","price":false,"story":"职场通勤剧情+黑乐福鞋特写","confidence":"中"},
+ {"key":"r501","framework":"图文型","type":"白底单图","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"无钩子","hook_text":"","price":false,"story":"白绿小脏鞋静态电商图","confidence":"高"},
+ {"key":"r502","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"黑雨靴泼水与按压演示","confidence":"中"}
+]

@@ -1,0 +1,7 @@
+[
+ {"key":"r188","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"红背景黑色男皮鞋手持摆拍特写","confidence":"高"},
+ {"key":"r189","framework":"工厂溯源型","type":"工厂车间实拍","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"仓库箱筐中翻找、整理棕色皮包实拍","confidence":"中"},
+ {"key":"r190","framework":"测评实验型","type":"防水耐磨演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"视觉奇观","hook_text":"","price":false,"story":"白鞋踩泥水、车内擦拭与称重演示","confidence":"高"},
+ {"key":"r191","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":5,"product_frames":6,"hook":"价格利益","hook_text":"你这小包挺好看的啊","price":true,"story":"机场口播拼色旅行袋：可斜挎、面料厚实、拉链口袋","confidence":"高"},
+ {"key":"r192","framework":"产品展示型","type":"上脚上身局部","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":7,"hook":"卖点直述","hook_text":"要是我不说 同事以为我一米75","price":false,"story":"黑袜套鞋腿举摆拍+牛仔套装模特展示","confidence":"中"}
+]

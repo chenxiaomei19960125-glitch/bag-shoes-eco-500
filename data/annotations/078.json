@@ -1,0 +1,7 @@
+[
+ {"key":"r388","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"无钩子","hook_text":"","price":false,"story":"银色尖头粗跟鞋试穿特写","confidence":"高"},
+ {"key":"r389","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"反季清货","price":true,"story":"黑色棉鞋试穿与内里展示","confidence":"中"},
+ {"key":"r390","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色厚底拖鞋弯折与踩踏演示","confidence":"高"},
+ {"key":"r391","framework":"街拍穿搭型","type":"路人穿搭种草","person":"真人露脸辅助","face3":false,"product_first":8,"product_frames":5,"hook":"好奇种草","hook_text":"These sneakers are exquisitely crafted","price":false,"story":"Instagram截图卡片+白色洞洞鞋街拍与按压","confidence":"中"},
+ {"key":"r392","framework":"图文型","type":"白底单图","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"卖点直述","hook_text":"软 官方正品 真皮透气","price":false,"story":"棕色男鞋静态电商图","confidence":"高"}
+]

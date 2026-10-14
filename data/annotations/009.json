@@ -1,0 +1,7 @@
+[
+ {"key":"r43","framework":"测评实验型","type":"防水耐磨演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"视觉奇观","hook_text":"","price":false,"story":"白鞋泼水、泥水冲刷、水面刮擦等多场景测试混剪","confidence":"高"},
+ {"key":"r44","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"棕色雪地靴上脚、弯折、翻毛内里特写，无字幕","confidence":"高"},
+ {"key":"r45","framework":"剧情型","type":"搭讪问询剧","person":"真人露脸主导","face3":true,"product_first":5,"product_frames":4,"hook":"冲突对话","hook_text":"什么条件啊 居然穿上LeeCooper","price":false,"story":"街头两闺蜜对话，讲直播间买的真增高、再买新款","confidence":"高"},
+ {"key":"r46","framework":"产品展示型","type":"上脚上身局部","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"紫色健步鞋上脚、按压演示，末尾老人全身走动","confidence":"高"},
+ {"key":"r47","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"蓝色背景黑色厚底短靴多角度试穿摆拍","confidence":"高"}
+]

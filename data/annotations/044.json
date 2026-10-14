@@ -1,0 +1,7 @@
+[
+ {"key":"r218","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"卖点直述","hook_text":"软底软面上脚真的好舒服","price":true,"story":"白棕德训鞋木盘摆拍：总跟高8cm、百搭、现在才什么价","confidence":"中"},
+ {"key":"r219","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":3,"product_frames":4,"hook":"无钩子","hook_text":"","price":false,"story":"棕色增高鞋提鞋与腿部试穿特写","confidence":"高"},
+ {"key":"r220","framework":"工厂溯源型","type":"原料工艺奇观","person":"仅身体局部","face3":false,"product_first":3,"product_frames":8,"hook":"视觉奇观","hook_text":"","price":false,"story":"车间打磨鞋底、机械加工实底大底工艺","confidence":"中"},
+ {"key":"r221","framework":"产品展示型","type":"功能细节演示","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"悬念反常识","hook_text":"先来听听声音","price":false,"story":"女生演示行李箱：听声音、看拉链、试轮子","confidence":"高"},
+ {"key":"r222","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"无钩子","hook_text":"","price":false,"story":"SENMA白德训鞋腿部试穿特写","confidence":"高"}
+]

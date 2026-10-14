@@ -1,0 +1,7 @@
+[
+ {"key":"r198","framework":"剧情型","type":"身份反差剧","person":"真人露脸主导","face3":true,"product_first":12,"product_frames":4,"hook":"身份人设","hook_text":"你说我还缺啥 豪车十几部 厂房一大栋","price":false,"story":"豪车老板走向镜头+黑鞋踩水、弯折特写","confidence":"高"},
+ {"key":"r199","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"卖点直述","hook_text":"专柜正品 时尚耐穿 久穿不累","price":false,"story":"黑皮鞋弯折、按压、上脚特写","confidence":"中"},
+ {"key":"r200","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"灰蓝加绒棉鞋试穿、弯折特写","confidence":"高"},
+ {"key":"r201","framework":"图文型","type":"白底单图","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"无钩子","hook_text":"","price":false,"story":"Jeep白鞋白底静态图","confidence":"高"},
+ {"key":"r202","framework":"测评实验型","type":"防水耐磨演示","person":"仅身体局部","face3":false,"product_first":3,"product_frames":9,"hook":"视觉奇观","hook_text":"","price":false,"story":"蓝白跑鞋踩泥、河边刷洗与鞋底特写","confidence":"中"}
+]

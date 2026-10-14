@@ -1,0 +1,7 @@
+[
+ {"key":"r353","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"灰紫老爹鞋夜景多场景上脚混剪","confidence":"高"},
+ {"key":"r354","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"痛点人群点名","hook_text":"40码宽肉脚 一套就卡进去的小单鞋","price":false,"story":"车内黑平底鞋试穿口播字幕","confidence":"高"},
+ {"key":"r355","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":null,"product_frames":0,"hook":"卖点直述","hook_text":"我今天这条裤子其实有点短","price":false,"story":"坐姿口播裤子穿搭，鞋出镜少","confidence":"低"},
+ {"key":"r356","framework":"产品展示型","type":"其他·牛仔裤实拍","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"卖点直述","hook_text":"秋季阳离子牛仔裤 重工棉感酵洗","price":false,"story":"男生展示牛仔裤垂坠与版型","confidence":"中"},
+ {"key":"r357","framework":"产品展示型","type":"其他·文胸展示","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":6,"hook":"卖点直述","hook_text":"爆款文胸 W型软支撑","price":false,"story":"文胸手持展示与上身效果","confidence":"中"}
+]

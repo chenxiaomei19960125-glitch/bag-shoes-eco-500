@@ -1,0 +1,7 @@
+[
+ {"key":"r78","framework":"产品展示型","type":"开箱展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"沉浸式体验我的行李箱","price":false,"story":"第一视角沉浸式开箱：1:9侧开盖深仓、倒水不漏、静音轮","confidence":"高"},
+ {"key":"r79","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"无钩子","hook_text":"","price":false,"story":"棕色托特包内里、挂饰手持展示，无字幕","confidence":"高"},
+ {"key":"r80","framework":"工厂溯源型","type":"老板带看工厂","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"价格利益","hook_text":"他们卖多少 399 降 再降","price":true,"story":"仓库夫妻口播：源头厂家两折再减50，黑色方包细节","confidence":"高"},
+ {"key":"r81","framework":"剧情型","type":"家庭情感剧","person":"真人露脸辅助","face3":true,"product_first":5,"product_frames":6,"hook":"价格利益","hook_text":"媳妇咱俩日子不过了","price":true,"story":"家庭情景送鞋礼盒，字幕统一零售价699、带售后保障卡","confidence":"中"},
+ {"key":"r82","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"无钩子","hook_text":"","price":false,"story":"橙色背景棕色缝线鞋上脚系带特写","confidence":"高"}
+]

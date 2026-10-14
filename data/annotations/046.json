@@ -1,0 +1,7 @@
+[
+ {"key":"r228","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"天天背好几千的包包 几十块还是品牌","price":true,"story":"吧台口播黑色单肩包：显贵、能装、不像便宜货","confidence":"高"},
+ {"key":"r229","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":8,"product_frames":6,"hook":"痛点人群点名","hook_text":"走一万步都不累脚的鞋","price":false,"story":"男士沙滩凉鞋试穿+鞋垫防滑特写","confidence":"中"},
+ {"key":"r230","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"卖点直述","hook_text":"非常修饰腿型的一双尖头瘦瘦靴","price":false,"story":"黑色瘦瘦靴腿部试穿与脚踝特写","confidence":"中"},
+ {"key":"r231","framework":"工厂溯源型","type":"老板带看工厂","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":3,"hook":"价格利益","hook_text":"只有35块钱 但是他穿起来吸汗","price":true,"story":"车间男老板拆鞋讲35元布鞋层层是布","confidence":"高"},
+ {"key":"r232","framework":"产品展示型","type":"手持转面展示","person":"真人露脸辅助","face3":false,"product_first":3,"product_frames":8,"hook":"卖点直述","hook_text":"品质男鞋","price":false,"story":"工装男开箱棕色德比鞋与鞋底特写","confidence":"中"}
+]

@@ -1,0 +1,7 @@
+[
+ {"key":"r363","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑帆布鞋弯折、鞋底特写","confidence":"高"},
+ {"key":"r364","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"反季清货","price":true,"story":"灰蓝健步鞋试穿+反季清货贴片","confidence":"中"},
+ {"key":"r365","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"好奇种草","hook_text":"老板我上周买的鞋可舒服了","price":false,"story":"店内剧情式展示浅棕奶奶鞋开箱试穿","confidence":"高"},
+ {"key":"r366","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑增高鞋量高与开箱演示","confidence":"高"},
+ {"key":"r367","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":25,"product_frames":3,"hook":"好奇种草","hook_text":"全网都在说密密姐的那双鞋好看","price":false,"story":"海报混剪+两闺蜜店内试鞋对话","confidence":"中"}
+]

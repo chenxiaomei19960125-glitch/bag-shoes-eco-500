@@ -1,0 +1,7 @@
+[
+ {"key":"r183","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"棉拖鞋多色摆拍与试穿特写","confidence":"高"},
+ {"key":"r184","framework":"剧情型","type":"路人劝说剧","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":3,"hook":"冲突对话","hook_text":"谁还穿运动鞋出门 难看死了","price":false,"story":"商超劝说剧+灰色厚底鞋上脚与系带特写","confidence":"高"},
+ {"key":"r185","framework":"图文型","type":"电商卡片轮播","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"价格利益","hook_text":"斯凯奇断码 138","price":true,"story":"运动鞋静态促销卡片轮播","confidence":"高"},
+ {"key":"r186","framework":"测评实验型","type":"防水耐磨演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"视觉奇观","hook_text":"","price":false,"story":"户外鞋车内踩踏、泼水、钢钉混剪测试","confidence":"高"},
+ {"key":"r187","framework":"工厂溯源型","type":"工厂车间实拍","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":3,"hook":"身份人设","hook_text":" brought to 广交会的两个云朵箱3.0","price":false,"story":"广交会口播云朵箱3.0：鎏金板材plus、钛金黑质感","confidence":"中"}
+]

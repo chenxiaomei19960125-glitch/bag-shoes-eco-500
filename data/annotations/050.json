@@ -1,0 +1,7 @@
+[
+ {"key":"r248","framework":"街拍穿搭型","type":"路人穿搭种草","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":5,"hook":"无钩子","hook_text":"","price":false,"story":"商场景区老花腋下包手持街拍","confidence":"中"},
+ {"key":"r249","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"灰色健步鞋旋钮扣开合、鞋盒试穿演示","confidence":"高"},
+ {"key":"r250","framework":"产品展示型","type":"手持转面展示","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":8,"hook":"好奇种草","hook_text":"关键它才卖69","price":false,"story":"女生手持米色德训鞋展示与上脚","confidence":"中"},
+ {"key":"r251","framework":"图文型","type":"电商卡片轮播","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"卖点直述","hook_text":"低调有型 深色厚底设计","price":false,"story":"深棕厚底男鞋静态电商卡片轮播","confidence":"高"},
+ {"key":"r252","framework":"直播切片型","type":"直播间讲解","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"买箱子送旅行包 莫奈紫哪个女生能拒绝","price":true,"story":"华姐直播莫奈紫箱26吋：可啃咬材质、放高铁行李架","confidence":"高"}
+]

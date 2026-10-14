@@ -1,0 +1,7 @@
+[
+ {"key":"r473","framework":"直播切片型","type":"直播间讲解","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":9,"hook":"价格利益","hook_text":"把这个鞋子拿回去 让你们记我燕子一辈子","price":false,"story":"红毯主播燕子+米色奶奶鞋试穿混剪","confidence":"高"},
+ {"key":"r474","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"棕色休闲鞋量宽、量厚与试穿","confidence":"高"},
+ {"key":"r475","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":5,"product_frames":6,"hook":"反常识避坑","hook_text":"你在买19开的行李箱 轮子好吵","price":false,"story":"对比剧：吵轮vs静音减震、双层拉链","confidence":"高"},
+ {"key":"r476","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"黑菱格小方包开合与分区展示","confidence":"高"},
+ {"key":"r477","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"痛点人群点名","hook_text":"小个子姐妹点名要的增高显瘦还保暖的勃肯鞋","price":true,"story":"口播勃肯鞋：3公分隐形增高、北方姐妹","confidence":"高"}
+]

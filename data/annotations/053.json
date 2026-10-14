@@ -1,0 +1,7 @@
+[
+ {"key":"r263","framework":"产品展示型","type":"功能细节演示","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"号称是富婆拖鞋小蛮腰","price":false,"story":"开箱两双小蛮腰拖鞋：轻巧、足弓支撑","confidence":"高"},
+ {"key":"r264","framework":"图文型","type":"电商卡片轮播","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"卖点直述","hook_text":"官方正品 支持鉴定","price":false,"story":"黑棉袜静态电商卡片轮播","confidence":"高"},
+ {"key":"r265","framework":"产品展示型","type":"开箱展示","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"","price":false,"story":"抱鞋盒开箱蓝灰复古老爹鞋，翻鞋内里特写","confidence":"高"},
+ {"key":"r266","framework":"直播切片型","type":"直播间讲解","person":"无人物","face3":false,"product_first":0.3,"product_frames":10,"hook":"卖点直述","hook_text":"正品保障 热卖中","price":false,"story":"黑色菱格小方包直播间促销展示","confidence":"中"},
+ {"key":"r267","framework":"产品展示型","type":"功能细节演示","person":"真人露脸辅助","face3":false,"product_first":3,"product_frames":8,"hook":"悬念反常识","hook_text":"","price":false,"story":"量身高163cm与垫增高垫前后对比演示","confidence":"中"}
+]

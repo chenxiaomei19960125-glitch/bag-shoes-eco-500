@@ -1,0 +1,7 @@
+[
+ {"key":"r293","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色厚底男鞋车内取鞋与试穿特写","confidence":"中"},
+ {"key":"r294","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"棕色增高鞋街头行走特写","confidence":"中"},
+ {"key":"r295","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"卖点直述","hook_text":"回力 牛皮牛皮材质 防水防雨 百搭好搭","price":false,"story":"回力黑皮鞋按压、泼水演示","confidence":"中"},
+ {"key":"r296","framework":"未复核","type":"未复核","person":"仅身体局部","face3":false,"product_first":null,"product_frames":0,"hook":"无钩子","hook_text":"","price":false,"story":"素材抽取失败，无法复核","confidence":"低"},
+ {"key":"r297","framework":"图文型","type":"白底单图","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"无钩子","hook_text":"","price":false,"story":"棕色男鞋静态电商图","confidence":"高"}
+]

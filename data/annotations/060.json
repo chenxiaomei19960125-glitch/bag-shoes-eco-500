@@ -1,0 +1,7 @@
+[
+ {"key":"r298","framework":"未复核","type":"未复核","person":"无人物","face3":false,"product_first":null,"product_frames":0,"hook":"无钩子","hook_text":"","price":false,"story":"素材抽取失败，无法复核","confidence":"低"},
+ {"key":"r299","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"好奇种草","hook_text":"一双鞋让小个子","price":false,"story":"黑棕厚底鞋试穿特写","confidence":"中"},
+ {"key":"r300","framework":"产品展示型","type":"开箱展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色男鞋开箱、鞋盒与刷鞋展示","confidence":"高"},
+ {"key":"r301","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"卖点直述","hook_text":"增高6cm","price":false,"story":"粉色增高鞋双手持展示","confidence":"中"},
+ {"key":"r302","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"痛点人群点名","hook_text":"一个鞋垫让小个子","price":false,"story":"人体工学坡跟鞋垫弯折与试穿演示","confidence":"中"}
+]

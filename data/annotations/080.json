@@ -1,0 +1,7 @@
+[
+ {"key":"r398","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"无钩子","hook_text":"","price":false,"story":"酒红厚底男鞋试穿特写","confidence":"高"},
+ {"key":"r399","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"无钩子","hook_text":"","price":false,"story":"白绿增高鞋系带试穿特写","confidence":"高"},
+ {"key":"r400","framework":"人设口播型","type":"选购科普口播","person":"真人露脸主导","face3":true,"product_first":null,"product_frames":0,"hook":"痛点人群点名","hook_text":"有没有姐妹找一顶耐看的棒球帽","price":false,"story":"黑帽子口播：水洗棉、显脸小","confidence":"高"},
+ {"key":"r401","framework":"产品展示型","type":"上脚上身局部","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"卖点直述","hook_text":"视频展示为测试效果","price":false,"story":"黑色增高鞋街拍试穿与弯折","confidence":"中"},
+ {"key":"r402","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"有些钱看似在乱花 其实在省钱","price":false,"story":"黑白短靴摆拍试穿混剪+省钱口播字幕","confidence":"中"}
+]

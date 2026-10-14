@@ -1,0 +1,7 @@
+[
+ {"key":"r208","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"痛点人群点名","hook_text":"一双能让小个子逆袭一米7的德训鞋","price":false,"story":"棕白德训鞋坐姿系带上脚","confidence":"高"},
+ {"key":"r209","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"种草","price":false,"story":"黑色尖头男鞋手持多角度展示","confidence":"中"},
+ {"key":"r210","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"无钩子","hook_text":"","price":false,"story":"白网球鞋腿部与手持换鞋展示","confidence":"中"},
+ {"key":"r211","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"灰紫老爹鞋夜景多场景上脚混剪","confidence":"高"},
+ {"key":"r212","framework":"测评实验型","type":"破坏极限测试","person":"仅身体局部","face3":false,"product_first":16,"product_frames":4,"hook":"测试结果悬念","hook_text":"","price":false,"story":"特斯拉车轮碾压白鞋后完好的测试剧","confidence":"高"}
+]

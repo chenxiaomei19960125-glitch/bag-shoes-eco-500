@@ -1,0 +1,7 @@
+[
+ {"key":"r238","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"黑米厚底小白鞋试穿、弯折特写","confidence":"高"},
+ {"key":"r239","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"无钩子","hook_text":"","price":false,"story":"银色老爹鞋腿部试穿特写","confidence":"高"},
+ {"key":"r240","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"这次出来玩戴的最满意的就是眼镜包","price":false,"story":"眼镜收纳包演示：一插就进、自带眼镜布","confidence":"高"},
+ {"key":"r241","framework":"产品展示型","type":"开箱展示","person":"仅身体局部","face3":false,"product_first":1.5,"product_frames":10,"hook":"好奇种草","hook_text":"","price":false,"story":"牛皮纸开箱棕色小方包与五金细节","confidence":"中"},
+ {"key":"r242","framework":"情感送礼型","type":"收礼反应","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":4,"hook":"情感送礼","hook_text":"她的包包都旧了 就给她买个新的吧","price":false,"story":"车内女生收BASA BELA礼盒包开心展示","confidence":"高"}
+]

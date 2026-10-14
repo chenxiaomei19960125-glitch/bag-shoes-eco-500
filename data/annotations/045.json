@@ -1,0 +1,7 @@
+[
+ {"key":"r223","framework":"剧情型","type":"生活情景剧","person":"真人露脸辅助","face3":false,"product_first":8,"product_frames":6,"hook":"好奇种草","hook_text":"","price":false,"story":"摔箱弹跳+珍珠棉轻材质+街拍拉箱混剪","confidence":"低"},
+ {"key":"r224","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"棕色厚底乐福鞋试穿、鞋底特写","confidence":"高"},
+ {"key":"r225","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"痛点人群点名","hook_text":"一定要买一个这样的多巴胺双肩包","price":false,"story":"户外试背紫绿双肩包：结实面料、收纳分区演示","confidence":"高"},
+ {"key":"r226","framework":"产品展示型","type":"功能细节演示","person":"真人露脸辅助","face3":false,"product_first":8,"product_frames":4,"hook":"卖点直述","hook_text":"带大家看一下这个防潮垫","price":false,"story":"公园展开防潮垫：折叠比手机小、PVC胶底、牛津布","confidence":"高"},
+ {"key":"r227","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"无钩子","hook_text":"","price":false,"story":"CARTELO白红跑鞋卡车背景踩踏特写","confidence":"中"}
+]

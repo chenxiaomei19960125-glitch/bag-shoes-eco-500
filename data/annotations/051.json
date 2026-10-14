@@ -1,0 +1,7 @@
+[
+ {"key":"r253","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"CENTURY棕色拖鞋夜灯下试穿特写","confidence":"中"},
+ {"key":"r254","framework":"图文型","type":"电商卡片轮播","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"卖点直述","hook_text":"防水布鞋 透气又舒适","price":false,"story":"黑色老人鞋静态电商卡片轮播","confidence":"高"},
+ {"key":"r255","framework":"人设口播型","type":"老板店主口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"身份人设","hook_text":"星空皮具 只做真皮","price":false,"story":"店内男生举棕色手提包口播，讲头层牛皮质感","confidence":"高"},
+ {"key":"r256","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"卖点直述","hook_text":"回力一脚蹬皮鞋 包边设计不挤脚","price":false,"story":"黑色一脚蹬皮鞋试穿与卖点字幕","confidence":"中"},
+ {"key":"r257","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"粉红鞋盒上棕黑马丁靴摆拍特写","confidence":"高"}
+]

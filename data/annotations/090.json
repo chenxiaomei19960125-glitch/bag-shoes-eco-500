@@ -1,0 +1,7 @@
+[
+ {"key":"r448","framework":"工厂溯源型","type":"老板带看工厂","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":3,"hook":"身份人设","hook_text":"恭喜你终于刷到福建晋江真正的鞋厂老板了","price":false,"story":"鞋厂老板口播自产自销+黑鞋细节","confidence":"高"},
+ {"key":"r449","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"奔驰车内棕色皮包开合与摆放","confidence":"高"},
+ {"key":"r450","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"银灰老爹鞋试穿特写","confidence":"高"},
+ {"key":"r451","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"无钩子","hook_text":"","price":false,"story":"黑乐福鞋手持与试穿特写","confidence":"高"},
+ {"key":"r452","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"身份人设","hook_text":"英国BE品牌水桶包系列 新款包包分享","price":false,"story":"夜市街头试背老花水桶包口播","confidence":"高"}
+]

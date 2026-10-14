@@ -1,0 +1,27 @@
+{
+ "source": "/Users/chenxiaomei/Desktop/通用分析数据集 - 2026-10-10T114915.478.xlsx",
+ "sheet": "Sheet1",
+ "source_rows": 4999,
+ "materials": 500,
+ "excluded": [
+  {
+   "key": "r2",
+   "source_row": 2,
+   "category": "整体",
+   "url": "",
+   "cost": 1479438.97,
+   "mix": 9448.25,
+   "eco": 2431.41,
+   "skip": 59.35,
+   "play": 8.86,
+   "cvr": 5.54,
+   "ctr": 2.66,
+   "reason": "整体汇总行"
+  }
+ ],
+ "duplicate_ids": 0,
+ "missing_metrics": [
+  "r347",
+  "r443"
+ ]
+}

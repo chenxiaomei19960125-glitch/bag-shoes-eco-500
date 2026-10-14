@@ -1,0 +1,7 @@
+[
+ {"key":"r13","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"米色棉拖鞋从鞋盒到上脚的摆拍特写，无字幕","confidence":"高"},
+ {"key":"r14","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"室内木地板棉拖鞋上脚、弯腰拿鞋特写，无字幕","confidence":"高"},
+ {"key":"r15","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":5,"product_frames":7,"hook":"好奇种草","hook_text":"老板我上周买的鞋可舒服了","price":false,"story":"0-3秒店门口对话带直播角标；5-29.5秒户外手持鞋展示","confidence":"中"},
+ {"key":"r16","framework":"测评实验型","type":"防水耐磨演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"测试结果悬念","hook_text":"","price":false,"story":"户外鞋踩碎石、冰面、泼水与鞋底纹路特写","confidence":"高"},
+ {"key":"r17","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":3,"hook":"痛点人群点名","hook_text":"快来","price":false,"story":"家门口两人互动，女生展示一脚蹬鞋与鞋架场景","confidence":"中"}
+]

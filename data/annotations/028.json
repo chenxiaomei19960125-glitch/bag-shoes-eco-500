@@ -1,0 +1,7 @@
+[
+ {"key":"r138","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":9,"hook":"悬念反常识","hook_text":"iPhone18pro勃艮第酒红刷屏全网 卡拉羊绛红色早已出圈","price":false,"story":"借iPhone酒红色热点讲卡拉羊绛红箱，国货先行","confidence":"高"},
+ {"key":"r139","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"棕色高跟鞋试穿上脚特写","confidence":"高"},
+ {"key":"r140","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":4,"hook":"好奇种草","hook_text":"你这个是今年特流行那个莫兰迪配色的行李箱不","price":false,"story":"机场两箱对话：上翻盖方便、小夹层分区、PC加厚抗摔","confidence":"高"},
+ {"key":"r141","framework":"产品展示型","type":"其他·卡通靠枕","person":"无人物","face3":false,"product_first":null,"product_frames":0,"hook":"无钩子","hook_text":"","price":false,"story":"画面为卡通抱枕/靠枕实拍，未见鞋品，低置信","confidence":"低"},
+ {"key":"r142","framework":"工厂溯源型","type":"原料工艺奇观","person":"真人露脸辅助","face3":false,"product_first":null,"product_frames":0,"hook":"视觉奇观","hook_text":"","price":false,"story":"山间采竹、手工剖篾、晒藤等原料工艺纪实","confidence":"中"}
+]

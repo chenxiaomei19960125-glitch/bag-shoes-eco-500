@@ -1,0 +1,7 @@
+[
+ {"key":"r488","framework":"图文型","type":"电商卡片轮播","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"价格利益","hook_text":"断码斯凯奇 138","price":true,"story":"黑白运动鞋静态促销卡片轮播","confidence":"高"},
+ {"key":"r489","framework":"图文型","type":"白底单图","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"卖点直述","hook_text":"里外真皮 软 官方正品有防伪","price":false,"story":"红黑皮鞋静态电商图","confidence":"高"},
+ {"key":"r490","framework":"图文型","type":"电商卡片轮播","person":"真人露脸辅助","face3":false,"product_first":0,"product_frames":1,"hook":"痛点人群点名","hook_text":"心动好物推荐 隐形增高9CM","price":false,"story":"舒乐高内增高板鞋商品卡片轮播","confidence":"高"},
+ {"key":"r491","framework":"剧情型","type":"搭讪问询剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"冲突对话","hook_text":"你波登袋鼠品牌包哪买的","price":true,"story":"街头问包：女儿买的、全场两折、能背10年","confidence":"高"},
+ {"key":"r492","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"无钩子","hook_text":"","price":false,"story":"银灰老爹鞋街头试穿特写","confidence":"高"}
+]

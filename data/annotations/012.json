@@ -1,0 +1,7 @@
+[
+ {"key":"r58","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"痛点人群点名","hook_text":"一双能让小个子逆袭一米7的德训鞋","price":false,"story":"德训鞋上脚特写，字幕讲增高不增重、巨轻巨软","confidence":"高"},
+ {"key":"r59","framework":"剧情型","type":"搭讪问询剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"冲突对话","hook_text":"你这小包挺好看的","price":false,"story":"机场两人对话夸黄色小包，女士展示面料厚实与拉链","confidence":"高"},
+ {"key":"r60","framework":"人设口播型","type":"叫卖促销口播","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"价格利益","hook_text":"到期了 全部清掉","price":true,"story":"清仓口播+黑色双肩包手持展示与内里细节","confidence":"高"},
+ {"key":"r61","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":5,"hook":"好奇种草","hook_text":"每个人家里的鞋柜里都一定会有这样的一双鞋","price":false,"story":"坐姿口播德训鞋贴片，末尾换装与街头上脚","confidence":"中"},
+ {"key":"r62","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"公主这个手套真的可以买一个","price":false,"story":"厨房切菜揉面等家务场景演示手套贴合，全程手部特写","confidence":"中"}
+]

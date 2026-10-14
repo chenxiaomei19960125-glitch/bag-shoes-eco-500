@@ -1,0 +1,7 @@
+[
+ {"key":"r63","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"悬念反常识","hook_text":"别看它长得挺丑的","price":true,"story":"蜗牛增高垫：足弓支撑对比、防滑底演示，活动价14块5","confidence":"中"},
+ {"key":"r64","framework":"直播切片型","type":"直播间讲解","person":"无人物","face3":false,"product_first":0.3,"product_frames":5,"hook":"无钩子","hook_text":"","price":false,"story":"棕色皮带卷与上身摆拍特写，画面带直播类UI角标","confidence":"低"},
+ {"key":"r65","framework":"直播切片型","type":"直播间讲解","person":"真人露脸主导","face3":true,"product_first":1.5,"product_frames":9,"hook":"好奇种草","hook_text":"有钱人穿的鞋子长啥样 终于卖爆了","price":false,"story":"红毯双主播带货，黑色厚底雪地靴试穿、捏压特写","confidence":"中"},
+ {"key":"r66","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"无钩子","hook_text":"","price":false,"story":"双手反复弯折小白鞋展示柔软度与系带细节","confidence":"高"},
+ {"key":"r67","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":9,"hook":"反常识避坑","hook_text":"像我一样的懒人千万不要用这个行李箱","price":false,"story":"演示懒人行李箱直放衣物、长款外套，像移动小衣柜","confidence":"高"}
+]

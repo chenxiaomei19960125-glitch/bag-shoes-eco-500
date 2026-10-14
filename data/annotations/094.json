@@ -1,0 +1,7 @@
+[
+ {"key":"r468","framework":"产品展示型","type":"上脚上身局部","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":6,"hook":"卖点直述","hook_text":"复古红色德训鞋 +7公分增高","price":false,"story":"红德训鞋试穿+口播字幕","confidence":"高"},
+ {"key":"r469","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"星光蓝 绛红色 你们知道凭什么它高级吗","price":false,"story":"高铁站推箱口播哑光PC配色","confidence":"高"},
+ {"key":"r470","framework":"图文型","type":"白底单图","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"无钩子","hook_text":"","price":false,"story":"棕色男鞋静态电商图","confidence":"高"},
+ {"key":"r471","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑蓝乐福鞋多色试穿特写","confidence":"高"},
+ {"key":"r472","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"白跑鞋健身房与街拍多场景混剪","confidence":"中"}
+]

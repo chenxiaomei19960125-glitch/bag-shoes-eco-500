@@ -1,0 +1,7 @@
+[
+ {"key":"r88","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"真人露脸辅助","face3":false,"product_first":3,"product_frames":7,"hook":"无钩子","hook_text":"","price":false,"story":"蓝色跑鞋跑道、草地多场景上脚混剪","confidence":"中"},
+ {"key":"r89","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"反季清货","price":true,"story":"蓝红背景黑色袜套鞋上脚、量高与鞋底演示","confidence":"中"},
+ {"key":"r90","framework":"街拍穿搭型","type":"路人穿搭种草","person":"真人露脸辅助","face3":false,"product_first":5,"product_frames":5,"hook":"痛点人群点名","hook_text":"只有25以上的人才懂这双鞋","price":true,"story":"海外街拍+社媒截图，厚底雪地靴1万4、暴走一万步不累","confidence":"中"},
+ {"key":"r91","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":7,"hook":"价格利益","hook_text":"带这个几十块钱小旅行包","price":true,"story":"机场推箱口播小旅行包：格子图案、隔层、扩容","confidence":"高"},
+ {"key":"r92","framework":"工厂溯源型","type":"工厂车间实拍","person":"真人露脸辅助","face3":true,"product_first":3,"product_frames":8,"hook":"身份人设","hook_text":"代表中国制造的行李箱","price":false,"story":"广交会红毯+工厂产线+机场场景，卡拉羊云朵箱三倍行业标准","confidence":"中"}
+]

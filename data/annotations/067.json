@@ -1,0 +1,7 @@
+[
+ {"key":"r333","framework":"产品展示型","type":"摆拍展台","person":"真人露脸辅助","face3":true,"product_first":8,"product_frames":4,"hook":"好奇种草","hook_text":"她穿的是LeeCooper 增高6.5厘米的曲奇德训鞋","price":false,"story":"黑背景曲奇德训摆拍+小个子口播","confidence":"高"},
+ {"key":"r334","framework":"图文型","type":"白底单图","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"无钩子","hook_text":"","price":false,"story":"SENMA跑鞋静态图","confidence":"高"},
+ {"key":"r335","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"卖点直述","hook_text":"质量保证","price":false,"story":"黑豆豆鞋红背景手持促销展示","confidence":"中"},
+ {"key":"r336","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"无钩子","hook_text":"","price":false,"story":"SENMA白棕德训鞋试穿特写","confidence":"高"},
+ {"key":"r337","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"真人露脸主导","face3":true,"product_first":20,"product_frames":1,"hook":"无钩子","hook_text":"","price":false,"story":"楼梯与街头女生穿搭街拍，鞋品出镜少","confidence":"低"}
+]

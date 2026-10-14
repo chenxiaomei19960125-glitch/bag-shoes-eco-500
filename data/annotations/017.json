@@ -1,0 +1,7 @@
+[
+ {"key":"r83","framework":"图文型","type":"白底单图","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"无钩子","hook_text":"","price":false,"story":"棕色皮带静态电商图","confidence":"高"},
+ {"key":"r84","framework":"剧情型","type":"搭讪问询剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":7,"hook":"冲突对话","hook_text":"哎美女你这包我看了好","price":true,"story":"商场问包对话：香港古乔、618活动、容量、在哪个店买","confidence":"高"},
+ {"key":"r85","framework":"测评实验型","type":"破坏极限测试","person":"真人露脸辅助","face3":false,"product_first":1.5,"product_frames":9,"hook":"视觉奇观","hook_text":"","price":false,"story":"行李箱摔砸拖踩多轮暴力测试，女生出镜讲解","confidence":"高"},
+ {"key":"r86","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"无钩子","hook_text":"","price":false,"story":"黑色男鞋上脚、手持鞋面演示，无字幕","confidence":"高"},
+ {"key":"r87","framework":"剧情型","type":"搭讪问询剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"冲突对话","hook_text":"你这包包是什么包包啊","price":true,"story":"街头问包：香港古乔、100多、送宽肩带、在哪个直播间","confidence":"高"}
+]

@@ -1,0 +1,7 @@
+[
+ {"key":"r418","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"黑金帆布鞋系带试穿特写","confidence":"高"},
+ {"key":"r419","framework":"产品展示型","type":"上脚上身局部","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":10,"hook":"痛点人群点名","hook_text":"男人一年要穿几个月的拖鞋","price":false,"story":"洞洞鞋试穿与软底演示+口播字幕","confidence":"中"},
+ {"key":"r420","framework":"图文型","type":"白底单图","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"无钩子","hook_text":"","price":false,"story":"行李箱静态电商图","confidence":"高"},
+ {"key":"r421","framework":"测评实验型","type":"对比测评","person":"真人露脸主导","face3":true,"product_first":5,"product_frames":6,"hook":"悬念反常识","hook_text":"你买的布鞋不一定是布做的","price":false,"story":"切开对比鞋底：市售假布鞋vs正品","confidence":"高"},
+ {"key":"r422","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"好奇种草","hook_text":"最近怎么长高了呀","price":false,"story":"闺蜜发现同款鞋悄悄增高6公分","confidence":"高"}
+]

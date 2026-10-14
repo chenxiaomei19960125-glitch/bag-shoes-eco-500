@@ -1,0 +1,7 @@
+[
+ {"key":"r103","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"白蓝跑鞋踩钢钉、泥土等多场景上脚混剪，带广告声明字幕","confidence":"中"},
+ {"key":"r104","framework":"剧情型","type":"生活情景剧","person":"真人露脸辅助","face3":false,"product_first":1.5,"product_frames":10,"hook":"好奇种草","hook_text":"生意场上 话不必说满","price":false,"story":"长钱包开合演示，旁白讲手工缝线与契约精神","confidence":"中"},
+ {"key":"r105","framework":"人设口播型","type":"叫卖促销口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"15块钱都不要了","price":true,"story":"女生举两穿厚底拖鞋试穿：增高6厘米、EVA一体成型","confidence":"高"},
+ {"key":"r106","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"棕色短靴室内上脚、蹲姿特写","confidence":"高"},
+ {"key":"r107","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":1.5,"product_frames":9,"hook":"价格利益","hook_text":"反季清货","price":true,"story":"反季清货贴片+黑色雪地靴上脚与开箱特写","confidence":"中"}
+]

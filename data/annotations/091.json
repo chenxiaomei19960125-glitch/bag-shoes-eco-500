@@ -1,0 +1,7 @@
+[
+ {"key":"r453","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"身份人设","hook_text":"英国BE品牌 新款气质女包分享","price":false,"story":"书吧坐姿口播水桶包链条拼接","confidence":"高"},
+ {"key":"r454","framework":"人设口播型","type":"选购科普口播","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"痛点人群点名","hook_text":"我这大学四年用过好几款行李箱","price":false,"story":"商场口播1:9侧翻盖蓝箱：静音轮、耐刮哑光","confidence":"高"},
+ {"key":"r455","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑旋转扣鞋多双堆叠摆拍与试穿","confidence":"高"},
+ {"key":"r456","framework":"街拍穿搭型","type":"穿搭变装","person":"真人露脸主导","face3":true,"product_first":12,"product_frames":2,"hook":"好奇种草","hook_text":"穿搭股有公式","price":false,"story":"白裙穿搭公式混剪+德训鞋特写","confidence":"中"},
+ {"key":"r457","framework":"产品展示型","type":"上脚上身局部","person":"真人露脸主导","face3":true,"product_first":1.5,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"泳池边白色洞洞鞋试穿演示","confidence":"高"}
+]

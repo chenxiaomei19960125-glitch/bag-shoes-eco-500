@@ -1,0 +1,7 @@
+[
+ {"key":"r148","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":1.5,"product_frames":9,"hook":"价格利益","hook_text":"行李箱一口价","price":true,"story":"砍价情景：砍一刀299、299还砍、三位一体密码锁","confidence":"高"},
+ {"key":"r149","framework":"剧情型","type":"路人劝说剧","person":"真人露脸主导","face3":true,"product_first":5,"product_frames":6,"hook":"冲突对话","hook_text":"哎阿姨不要这样穿 哪有人穿运动鞋出门","price":false,"story":"商超劝说剧+杏色软底鞋弯折上脚特写","confidence":"高"},
+ {"key":"r150","framework":"人设口播型","type":"叫卖促销口播","person":"真人露脸主导","face3":true,"product_first":1.5,"product_frames":9,"hook":"痛点人群点名","hook_text":"什么样的行李箱能带上飞机呢","price":false,"story":"女生口播魔方体箱：敲不坏、成年人可坐、装7套衣服","confidence":"高"},
+ {"key":"r151","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色男鞋上脚与鞋底纹路特写","confidence":"高"},
+ {"key":"r152","framework":"人设口播型","type":"选购科普口播","person":"真人露脸主导","face3":true,"product_first":1.5,"product_frames":9,"hook":"痛点人群点名","hook_text":"留学生的行李箱怎么选呢","price":false,"story":"口播紫色轻奢箱：新材料、静音、3倍行业标准","confidence":"高"}
+]

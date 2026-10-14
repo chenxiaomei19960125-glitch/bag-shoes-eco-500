@@ -1,0 +1,7 @@
+[
+ {"key":"r168","framework":"产品展示型","type":"摆拍展台","person":"真人露脸辅助","face3":false,"product_first":1.5,"product_frames":8,"hook":"无钩子","hook_text":"哇塞","price":false,"story":"黑色乐福鞋木地板摆拍、按压鞋面鞋底特写","confidence":"中"},
+ {"key":"r169","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"白蓝鞋踩刷子、泥水、草地多场景上脚混剪","confidence":"高"},
+ {"key":"r170","framework":"产品展示型","type":"功能细节演示","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":9,"hook":"好奇种草","hook_text":"狗哥蜗牛垫三种高度 适配任何鞋型","price":true,"story":"163/168cm高度对比+足弓支撑，直播间第二双半价","confidence":"高"},
+ {"key":"r171","framework":"街拍穿搭型","type":"路人穿搭种草","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"无钩子","hook_text":"","price":false,"story":"橙色挎包街拍背影、细节与开包收纳演示","confidence":"中"},
+ {"key":"r172","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":4,"hook":"好奇种草","hook_text":"我觉得这个太舒服了","price":false,"story":"口播+德训鞋开箱试穿：增高5.5cm、版型有设计感","confidence":"高"}
+]

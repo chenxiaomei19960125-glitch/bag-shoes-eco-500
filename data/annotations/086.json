@@ -1,0 +1,7 @@
+[
+ {"key":"r428","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"身份人设","hook_text":"2009年创立的独立设计师品牌","price":false,"story":"雨中街头口播黑包：软而挺的光皮、质感不输千元","confidence":"高"},
+ {"key":"r429","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":20,"product_frames":2,"hook":"好奇种草","hook_text":"所有喜欢酒红色的客人看过来","price":false,"story":"白衬衫口播酒红靴对比展示","confidence":"高"},
+ {"key":"r430","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑乐福鞋试穿与鞋底特写","confidence":"高"},
+ {"key":"r431","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":8,"hook":"痛点人群点名","hook_text":"搬家了一鼓气把家里拖鞋都换成易洗的","price":false,"story":"棕紫拖鞋试穿演示","confidence":"中"},
+ {"key":"r432","framework":"人设口播型","type":"叫卖促销口播","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":3,"hook":"悬念反常识","hook_text":"为什么鞋子要买贵的而不是买对的","price":true,"story":"口播回力皮鞋：官方授权、365天换新","confidence":"高"}
+]

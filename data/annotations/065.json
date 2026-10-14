@@ -1,0 +1,7 @@
+[
+ {"key":"r323","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"悬念反常识","hook_text":"到底是谁还没穿上台湾很火的小蛮腰拖鞋","price":false,"story":"酒红拖鞋试穿：按摩颗粒、防滑贴片","confidence":"中"},
+ {"key":"r324","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑皮鞋弯折、量厚度演示","confidence":"高"},
+ {"key":"r325","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"这个小旅行包我也喜欢","price":false,"story":"酒店场景口播帆布旅行袋：复古、厚实、仪式感","confidence":"中"},
+ {"key":"r326","framework":"工厂溯源型","type":"老板带看工厂","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":3,"hook":"痛点人群点名","hook_text":"如果你一天要走2万步以上","price":false,"story":"库房老板口播+户外鞋泼水、踩踏演示","confidence":"高"},
+ {"key":"r327","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"无钩子","hook_text":"","price":false,"story":"SENMA米白德训鞋试穿特写","confidence":"高"}
+]

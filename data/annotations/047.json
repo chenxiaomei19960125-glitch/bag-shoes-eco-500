@@ -1,0 +1,7 @@
+[
+ {"key":"r233","framework":"情感送礼型","type":"送礼开箱","person":"真人露脸主导","face3":true,"product_first":5,"product_frames":4,"hook":"情感送礼","hook_text":"老婆的包包都旧了 悄悄给她买个新的吧","price":false,"story":"BASA BELA礼盒送包剧情，收礼女生嘴角上扬","confidence":"高"},
+ {"key":"r234","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"出门玩还得是这种包","price":false,"story":"橙色旅行袋口播：容量装十几套、可扩容、24寸大小","confidence":"高"},
+ {"key":"r235","framework":"街拍穿搭型","type":"路人穿搭种草","person":"真人露脸主导","face3":false,"product_first":0.3,"product_frames":9,"hook":"价格利益","hook_text":"给我老公买了个小包 店员都找我要链接","price":false,"story":"咖啡店街拍黑色小包试背与拉链细节","confidence":"中"},
+ {"key":"r236","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"卖点直述","hook_text":"这款术林森皮鞋 男生必备","price":false,"story":"黑色健步鞋系带试穿特写","confidence":"中"},
+ {"key":"r237","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"卖点直述","hook_text":"不磨脚不臭脚","price":false,"story":"红背景棕色凉鞋促销展示、鞋底特写","confidence":"中"}
+]

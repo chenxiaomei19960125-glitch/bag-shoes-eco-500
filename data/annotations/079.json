@@ -1,0 +1,7 @@
+[
+ {"key":"r393","framework":"图文型","type":"电商卡片轮播","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"卖点直述","hook_text":"老爷车正品 真皮透气 软","price":false,"story":"男鞋静态电商卡片轮播","confidence":"高"},
+ {"key":"r394","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"真人露脸辅助","face3":false,"product_first":3,"product_frames":7,"hook":"无钩子","hook_text":"","price":false,"story":"跑步数据卡+白跑鞋多场景上脚混剪","confidence":"中"},
+ {"key":"r395","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"棕黑短靴彩色鞋盒摆拍试穿","confidence":"高"},
+ {"key":"r396","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑乐福鞋弯折与鞋底特写","confidence":"高"},
+ {"key":"r397","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"卖点直述","hook_text":"专柜正品现货直达 头层牛皮","price":false,"story":"黑乐福鞋绿箱摆拍","confidence":"中"}
+]

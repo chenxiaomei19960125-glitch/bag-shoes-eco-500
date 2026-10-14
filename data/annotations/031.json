@@ -1,0 +1,7 @@
+[
+ {"key":"r153","framework":"情感送礼型","type":"收礼反应","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":5,"hook":"情感送礼","hook_text":"送老婆","price":false,"story":"“送老婆”礼盒开场，车内女生开箱白色手提包","confidence":"高"},
+ {"key":"r154","framework":"情感送礼型","type":"收礼反应","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":3,"hook":"情感送礼","hook_text":"这不是你过生日了吗","price":false,"story":"街头生日惊喜送包，女生开心收礼并背起展示","confidence":"高"},
+ {"key":"r155","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色皮鞋手持与试穿展示","confidence":"高"},
+ {"key":"r156","framework":"产品展示型","type":"开箱展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"盼了好久的粉色行李箱终于到货咯","price":false,"story":"沉浸式开箱粉色箱：多档高度、TPE静音轮、电脑仓","confidence":"高"},
+ {"key":"r157","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"棕色短靴室内上脚特写","confidence":"高"}
+]

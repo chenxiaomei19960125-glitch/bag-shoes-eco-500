@@ -1,0 +1,7 @@
+[
+ {"key":"r463","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"悬念反常识","hook_text":"这个包我在欧洲地铁一天能看见3回","price":false,"story":"男生举灰蓝包口播：欧洲审美、普通人买得起","confidence":"高"},
+ {"key":"r464","framework":"产品展示型","type":"上脚上身局部","person":"真人露脸辅助","face3":false,"product_first":5,"product_frames":5,"hook":"好奇种草","hook_text":"全网都在说依依妹妹的那双鞋好看","price":false,"story":"+8cm棕色短靴街拍与软底展示","confidence":"高"},
+ {"key":"r465","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"出门这个斜挎包又被要链接了","price":false,"story":"白T演示米色斜挎包隔层收纳","confidence":"高"},
+ {"key":"r466","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"卖点直述","hook_text":"专柜正品 现货直达 不磨脚不卡脚","price":false,"story":"棕休闲鞋量尺、试穿展示","confidence":"高"},
+ {"key":"r467","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":5,"hook":"痛点人群点名","hook_text":"当公司要求穿高跟鞋上班","price":false,"story":"高跟鞋上下班反差剧情","confidence":"高"}
+]

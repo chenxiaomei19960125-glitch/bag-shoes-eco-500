@@ -1,0 +1,7 @@
+[
+ {"key":"r23","framework":"人设口播型","type":"叫卖促销口播","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":7,"hook":"痛点人群点名","hook_text":"什么样的行李箱能带上飞机呢","price":false,"story":"女生口播+魔方行李箱演示：7套衣服、双排万向轮","confidence":"高"},
+ {"key":"r24","framework":"直播切片型","type":"直播间讲解","person":"真人露脸主导","face3":true,"product_first":20,"product_frames":3,"hook":"价格利益","hook_text":"把这个鞋子拿回去","price":true,"story":"红布直播间女主播叫卖报码数，末尾黑色皮鞋开箱特写","confidence":"高"},
+ {"key":"r25","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":5,"product_frames":6,"hook":"好奇种草","hook_text":"我个人其实会比较喜欢这双","price":false,"story":"坐姿口播对比两双增高鞋，讲显脚小、隐形增高6.5公分","confidence":"高"},
+ {"key":"r26","framework":"人设口播型","type":"叫卖促销口播","person":"真人露脸主导","face3":true,"product_first":5,"product_frames":6,"hook":"价格利益","hook_text":"对不起没有男士的 商场撤柜了","price":true,"story":"口播讲撤柜清仓便宜不敢信，黑色短靴多场景上脚","confidence":"高"},
+ {"key":"r27","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"卖点直述","hook_text":"要穿裙子好看 也要穿裤子好搭","price":false,"story":"木盒上白色德训鞋系带上脚摆拍特写","confidence":"高"}
+]

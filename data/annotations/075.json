@@ -1,0 +1,7 @@
+[
+ {"key":"r373","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":8,"hook":"痛点人群点名","hook_text":"我身高175 穿上写我180","price":false,"story":"码头双人身高梗剧情推US Polo增高鞋","confidence":"高"},
+ {"key":"r374","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"价格利益","hook_text":"吴晓波老师亲口承诺 前开盖铝框箱买箱送包","price":true,"story":"名人背书+6米高空摔箱演示","confidence":"高"},
+ {"key":"r375","framework":"图文型","type":"白底单图","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"无钩子","hook_text":"","price":false,"story":"黑色皮带静态电商图","confidence":"高"},
+ {"key":"r376","framework":"图文型","type":"白底单图","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"卖点直述","hook_text":"匠心工艺 合金拉丝扣头","price":false,"story":"棕色皮带静态电商图","confidence":"高"},
+ {"key":"r377","framework":"图文型","type":"白底单图","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"无钩子","hook_text":"","price":false,"story":"黑色皮带静态电商图","confidence":"高"}
+]

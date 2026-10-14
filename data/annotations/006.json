@@ -1,0 +1,7 @@
+[
+ {"key":"r28","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"橙色鞋盒上白色洞洞鞋上脚摆拍，无字幕","confidence":"高"},
+ {"key":"r29","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":5,"product_frames":6,"hook":"身份人设","hook_text":"当内行人买行李箱","price":false,"story":"店内店员与顾客对话，讲55分容量、加宽橡胶轮细节","confidence":"高"},
+ {"key":"r30","framework":"剧情型","type":"搭讪问询剧","person":"真人露脸主导","face3":true,"product_first":1.5,"product_frames":8,"hook":"冲突对话","hook_text":"你这大兜子挺好看的","price":false,"story":"机场路人问橙色大包，女主展示健身包容量与面料","confidence":"高"},
+ {"key":"r31","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":7,"hook":"价格利益","hook_text":"30来块钱 给我老公买了7个小包","price":true,"story":"坐姿手持黑色尼龙小包讲价格、面料与三个口袋","confidence":"高"},
+ {"key":"r32","framework":"测评实验型","type":"破坏极限测试","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"视觉奇观","hook_text":"","price":false,"story":"工程车巨型轮胎碾压白色鞋，多角度上脚踩踏展示","confidence":"中"}
+]

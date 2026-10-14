@@ -1,0 +1,7 @@
+[
+ {"key":"r328","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":9,"hook":"痛点人群点名","hook_text":"难怪你脚冷","price":false,"story":"2026新款加绒男鞋街头与雨中实拍","confidence":"中"},
+ {"key":"r329","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":4,"hook":"身份人设","hook_text":"全世界非常贵的行李箱 吴晓波老师心头好","price":false,"story":"名人口播+机场摔箱剧情：酒红箱全封闭防护","confidence":"高"},
+ {"key":"r330","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"身份人设","hook_text":"新加坡安检大叔都夸的马皮靴","price":false,"story":"店内口播棕色马皮靴安检故事","confidence":"高"},
+ {"key":"r331","framework":"直播切片型","type":"直播间讲解","person":"真人露脸主导","face3":true,"product_first":25,"product_frames":2,"hook":"价格利益","hook_text":"把这个鞋子拿回去 让你们记我燕子一辈子","price":true,"story":"红毯主播燕子直播报码数促销","confidence":"高"},
+ {"key":"r332","framework":"测评实验型","type":"防水耐磨演示","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":4,"hook":"好奇种草","hook_text":"保罗骆驼棉鞋 超多福利","price":false,"story":"专家口播+灰棉鞋泼水测试混剪","confidence":"中"}
+]

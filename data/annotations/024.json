@@ -1,0 +1,7 @@
+[
+ {"key":"r118","framework":"直播切片型","type":"直播间讲解","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"直播间福利，买箱送麒麟包！","price":true,"story":"机场主播讲1号2号链接送包：水杯袋、风琴扩容、SBS拉链","confidence":"高"},
+ {"key":"r119","framework":"人设口播型","type":"博主种草口播","person":"真人露脸辅助","face3":false,"product_first":3,"product_frames":8,"hook":"好奇种草","hook_text":"小包挺好看的","price":false,"story":"店内试背黑色小方包：光泽面料、前袋、分区收纳、放遮阳伞","confidence":"中"},
+ {"key":"r120","framework":"街拍穿搭型","type":"路人穿搭种草","person":"真人露脸辅助","face3":false,"product_first":5,"product_frames":7,"hook":"好奇种草","hook_text":"后妈鞋在北京卖爆了","price":false,"story":"街头买两双给妈妈，米色后妈鞋上脚走路面特写","confidence":"中"},
+ {"key":"r121","framework":"产品展示型","type":"功能细节演示","person":"真人露脸辅助","face3":false,"product_first":3,"product_frames":8,"hook":"好奇种草","hook_text":"长腿的鞋垫终于被我找到了","price":false,"story":"手绘开场+增高垫前后对比：半掌设计、人体工学","confidence":"中"},
+ {"key":"r122","framework":"图文型","type":"电商卡片轮播","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"卖点直述","hook_text":"官方正品 退货包邮 真皮牛皮","price":false,"story":"白棕德训鞋静态电商图","confidence":"高"}
+]

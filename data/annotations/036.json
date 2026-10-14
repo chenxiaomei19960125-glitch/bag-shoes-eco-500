@@ -1,0 +1,7 @@
+[
+ {"key":"r178","framework":"产品展示型","type":"摆拍展台","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色大托特包合成背景摆拍+实拿实装演示","confidence":"中"},
+ {"key":"r179","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"灰白厚底老爹鞋试穿+黑色鞋上脚特写","confidence":"中"},
+ {"key":"r180","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"我这回总算是买到我的人生行李箱了","price":false,"story":"机场口播小莫迪蓝上翻盖箱：抗滑、能坐百来斤","confidence":"高"},
+ {"key":"r181","framework":"工厂溯源型","type":"原料工艺奇观","person":"真人露脸辅助","face3":false,"product_first":null,"product_frames":0,"hook":"视觉奇观","hook_text":"","price":false,"story":"天然原料采集、手工编织、车间加工纪实","confidence":"中"},
+ {"key":"r182","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"痛点人群点名","hook_text":"穿裙子不要搭小白鞋","price":false,"story":"黑色细跟高跟鞋街头行走特写","confidence":"中"}
+]

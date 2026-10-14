@@ -1,0 +1,7 @@
+[
+ {"key":"r8","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"机场地面棕色老爹鞋上脚走动特写，无字幕","confidence":"高"},
+ {"key":"r9","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":9,"hook":"卖点直述","hook_text":"这双鞋既有乐福鞋的精致","price":false,"story":"黑色乐福鞋上脚+街拍走动，字幕讲亮面/加宽/网布等卖点","confidence":"高"},
+ {"key":"r10","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"好奇种草","hook_text":"一开始我以为它只是好看而已","price":false,"story":"黑色厚底鞋街头腿部特写，字幕讲舒服、软、高度","confidence":"高"},
+ {"key":"r11","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":1.5,"product_frames":6,"hook":"痛点人群点名","hook_text":"快迟到了","price":false,"story":"0-3秒门口赶时间穿鞋；5-16秒通勤路上脚一脚蹬乐福鞋","confidence":"中"},
+ {"key":"r12","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"抢","price":true,"story":"红色促销边框内拖鞋摆拍上脚，多场景转场混剪","confidence":"中"}
+]

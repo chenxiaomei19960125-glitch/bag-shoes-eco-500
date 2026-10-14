@@ -1,0 +1,7 @@
+[
+ {"key":"r303","framework":"剧情型","type":"生活情景剧","person":"真人露脸辅助","face3":false,"product_first":3,"product_frames":8,"hook":"价格利益","hook_text":"老爹果断抢了两双","price":false,"story":"爸爸抢鞋贴片剧情+黑色旋钮鞋试穿特写","confidence":"中"},
+ {"key":"r304","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"好奇种草","hook_text":"","price":false,"story":"酒店走道女生举菱格链条包口播展示","confidence":"中"},
+ {"key":"r305","framework":"未复核","type":"未复核","person":"无人物","face3":false,"product_first":null,"product_frames":0,"hook":"无钩子","hook_text":"","price":false,"story":"素材抽取失败，无法复核","confidence":"低"},
+ {"key":"r306","framework":"未复核","type":"未复核","person":"无人物","face3":false,"product_first":null,"product_frames":0,"hook":"无钩子","hook_text":"","price":false,"story":"素材抽取失败，无法复核","confidence":"低"},
+ {"key":"r307","framework":"未复核","type":"未复核","person":"无人物","face3":false,"product_first":null,"product_frames":0,"hook":"无钩子","hook_text":"","price":false,"story":"素材抽取失败，无法复核","confidence":"低"}
+]

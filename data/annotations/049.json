@@ -1,0 +1,7 @@
+[
+ {"key":"r243","framework":"街拍穿搭型","type":"路人穿搭种草","person":"真人露脸辅助","face3":false,"product_first":3,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"后备箱取黄色背包、试背与口袋细节演示","confidence":"中"},
+ {"key":"r244","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"痛点人群点名","hook_text":"隐形增高带来的安全感 一米7小个子","price":false,"story":"白德训鞋口播字幕+上脚走动特写","confidence":"中"},
+ {"key":"r245","framework":"直播切片型","type":"直播间讲解","person":"真人露脸主导","face3":true,"product_first":12,"product_frames":3,"hook":"身份人设","hook_text":"拿那个18000多块钱的鞋子给我拿过来","price":false,"story":"红毯主播燕子直播口播，讲让家人们记一辈子","confidence":"高"},
+ {"key":"r246","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色乐福鞋木箱摆拍与手持特写","confidence":"高"},
+ {"key":"r247","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"DUNNU乐福鞋橙盒摆拍与鞋底特写","confidence":"高"}
+]

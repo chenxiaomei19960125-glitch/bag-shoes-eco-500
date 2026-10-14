@@ -1,0 +1,7 @@
+[
+ {"key":"r288","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"牢固手工 热销爆款 促销热卖","price":true,"story":"黑色男皮鞋橙背景促销摆拍","confidence":"中"},
+ {"key":"r289","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"","price":false,"story":"机场老爸带娃拉白箱登机生活剧","confidence":"中"},
+ {"key":"r290","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"无钩子","hook_text":"","price":false,"story":"黑色菱格链条包手持展示","confidence":"高"},
+ {"key":"r291","framework":"产品展示型","type":"功能细节演示","person":"真人露脸辅助","face3":false,"product_first":3,"product_frames":5,"hook":"痛点人群点名","hook_text":"穿增高鞋 我不在乎被看出来","price":false,"story":"粉鞋+5.5cm身高对比演示","confidence":"中"},
+ {"key":"r292","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"卖点直述","hook_text":"云朵一样的羽绒拖鞋","price":false,"story":"灰粉羽绒拖鞋试穿与踩踏特写","confidence":"中"}
+]

@@ -1,0 +1,7 @@
+[
+ {"key":"r53","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"无钩子","hook_text":"","price":false,"story":"坐姿棕色德训鞋系带上脚特写，无字幕","confidence":"高"},
+ {"key":"r54","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"自从给我爸妈买了这双加绒棉鞋","price":false,"story":"加绒棉鞋上脚与鞋垫量尺演示，字幕讲加绒毛里、EVA大底","confidence":"高"},
+ {"key":"r55","framework":"产品展示型","type":"手持转面展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色跑鞋开箱、量宽、踩水与手持展示，无字幕","confidence":"高"},
+ {"key":"r56","framework":"产品展示型","type":"收纳容量演示","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"悬念反常识","hook_text":"我们带了四个行李箱","price":false,"story":"女生演示前开门行李箱：不占地方、折叠杯架、充电、密码锁","confidence":"高"},
+ {"key":"r57","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":1.5,"product_frames":9,"hook":"好奇种草","hook_text":"你有穿过这么好看的鞋子","price":false,"story":"金标阿帕奇鞋手持展示，字幕讲顶奢立棉皮全皮包裹","confidence":"中"}
+]

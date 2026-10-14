@@ -1,0 +1,7 @@
+[
+ {"key":"r338","framework":"图文型","type":"海报轮播","person":"真人露脸辅助","face3":true,"product_first":0,"product_frames":1,"hook":"无钩子","hook_text":"","price":false,"story":"伦敦塔桥男生街拍静态图","confidence":"中"},
+ {"key":"r339","framework":"图文型","type":"白底单图","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"无钩子","hook_text":"","price":false,"story":"SENMA白鞋静态图","confidence":"高"},
+ {"key":"r340","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"灰色奶奶鞋试穿特写","confidence":"高"},
+ {"key":"r341","framework":"人设口播型","type":"选购科普口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"痛点人群点名","hook_text":"出行纠结箱子大小？选这个准没错","price":false,"story":"华姐讲解三尺寸行李箱：可扩容、前开门、装16吋电脑","confidence":"高"},
+ {"key":"r342","framework":"产品展示型","type":"上脚上身局部","person":"真人露脸辅助","face3":true,"product_first":1.5,"product_frames":3,"hook":"无钩子","hook_text":"","price":false,"story":"高铁舱内棕鞋特写与男生坐姿","confidence":"中"}
+]

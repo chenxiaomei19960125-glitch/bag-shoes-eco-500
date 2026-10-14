@@ -1,0 +1,7 @@
+[
+ {"key":"r483","framework":"图文型","type":"电商卡片轮播","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"价格利益","hook_text":"断码斯凯奇 捡漏价138","price":true,"story":"斯凯奇断码促销卡片+商品评价截图","confidence":"高"},
+ {"key":"r484","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑厚底皮鞋按压、量尺演示","confidence":"高"},
+ {"key":"r485","framework":"未复核","type":"未复核","person":"无人物","face3":false,"product_first":null,"product_frames":0,"hook":"无钩子","hook_text":"","price":false,"story":"视频下载失败，无法复核","confidence":"低"},
+ {"key":"r486","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"哥哥们有见过这么软的一双鞋子吗","price":false,"story":"口播小圆鞋：EVA三次发泡、保暖","confidence":"高"},
+ {"key":"r487","framework":"工厂溯源型","type":"工厂车间实拍","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"身份人设","hook_text":"卡拉羊总裁华姐 一镜到底","price":false,"story":"吴晓波联名款箱+车间板材工艺一镜到底","confidence":"高"}
+]

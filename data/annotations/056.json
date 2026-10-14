@@ -1,0 +1,7 @@
+[
+ {"key":"r278","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"白色厚底鞋室内脱穿试穿特写","confidence":"高"},
+ {"key":"r279","framework":"图文型","type":"电商卡片轮播","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"卖点直述","hook_text":"EVA橡胶拖鞋 木塞底不易臭脚","price":false,"story":"人字拖静态电商卡片轮播","confidence":"高"},
+ {"key":"r280","framework":"产品展示型","type":"开箱展示","person":"真人露脸辅助","face3":false,"product_first":3,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"店内橙盒开箱浅棕奶奶鞋试穿","confidence":"中"},
+ {"key":"r281","framework":"产品展示型","type":"开箱展示","person":"真人露脸主导","face3":true,"product_first":1.5,"product_frames":10,"hook":"好奇种草","hook_text":"","price":false,"story":"女生开箱灰白厚底跑鞋并手持展示","confidence":"高"},
+ {"key":"r282","framework":"街拍穿搭型","type":"穿搭变装","person":"真人露脸主导","face3":true,"product_first":12,"product_frames":3,"hook":"无钩子","hook_text":"","price":false,"story":"高铁舱内穿搭变装，米色鞋上脚走动","confidence":"中"}
+]

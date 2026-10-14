@@ -1,0 +1,7 @@
+[
+ {"key":"r258","framework":"产品展示型","type":"收纳容量演示","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"非常的丝滑 空间好大啊","price":false,"story":"高铁座位演示灰色双肩包：7个夹层、水杯分区、装13寸电脑","confidence":"高"},
+ {"key":"r259","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"白红气垫跑鞋与黑亮皮鞋上脚混剪","confidence":"中"},
+ {"key":"r260","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":12,"product_frames":3,"hook":"卖点直述","hook_text":"妈这鞋子真舒服 一点也不磨脚","price":false,"story":"秋游闺蜜对话夸鞋，头层牛皮软底","confidence":"高"},
+ {"key":"r261","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色尖头男鞋手持与橙圆盒摆拍","confidence":"高"},
+ {"key":"r262","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"棕粉雪地靴试穿特写","confidence":"高"}
+]

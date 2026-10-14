@@ -1,0 +1,7 @@
+[
+ {"key":"r438","framework":"产品展示型","type":"上脚上身局部","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":9,"hook":"无钩子","hook_text":"","price":false,"story":"紫色棉拖鞋试穿、弯折演示","confidence":"高"},
+ {"key":"r439","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":8,"hook":"卖点直述","hook_text":"专柜正品现货直达 头层牛皮","price":false,"story":"棕色休闲鞋试穿与软底按压","confidence":"中"},
+ {"key":"r440","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"无钩子","hook_text":"","price":false,"story":"棕绿系带鞋系带与试穿特写","confidence":"高"},
+ {"key":"r441","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"身份人设","hook_text":"为什么流行帕拉鞋 我今天托游艇会的大哥","price":false,"story":"游艇会大哥溯源剧情+米白帕拉鞋试穿","confidence":"高"},
+ {"key":"r442","framework":"产品展示型","type":"开箱展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑皮鞋红毯盒开箱与按压展示","confidence":"中"}
+]

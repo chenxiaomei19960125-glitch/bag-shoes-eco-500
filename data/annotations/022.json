@@ -1,0 +1,7 @@
+[
+ {"key":"r108","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":1.5,"product_frames":9,"hook":"悬念反常识","hook_text":"我出门从来不用酒店的衣柜","price":false,"story":"酒店房演示行李箱直挂衣物：对半开不方便、侧面空间","confidence":"高"},
+ {"key":"r109","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"悬念反常识","hook_text":"为什么出差一定要带榫卯铝框箱？","price":false,"story":"机场+车内场景口播：鎏金板材、2000次耐疲劳测试","confidence":"高"},
+ {"key":"r110","framework":"图文型","type":"白底单图","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"卖点直述","hook_text":"百分百真皮 内增高同款","price":false,"story":"黑色内增高皮鞋静态电商图","confidence":"高"},
+ {"key":"r111","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"价格利益","hook_text":"哎呦我太喜欢我新买的","price":true,"story":"机场推箱背荧光绿包：防水面料、分区收纳、隐藏小兜","confidence":"高"},
+ {"key":"r112","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色袜套厚底鞋上脚与弯折摆拍，无字幕","confidence":"高"}
+]

@@ -1,0 +1,7 @@
+[
+ {"key":"r478","framework":"人设口播型","type":"博主种草口播","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"痛点人群点名","hook_text":"但凡夏天喜欢穿裙子的姐妹","price":false,"story":"银灰小包分区收纳口播演示","confidence":"高"},
+ {"key":"r479","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":7,"hook":"卖点直述","hook_text":"头层牛皮材质 经典百搭 柔软舒适","price":false,"story":"黑皮鞋系带与按压特写","confidence":"高"},
+ {"key":"r480","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"无钩子","hook_text":"","price":false,"story":"棕色短靴商场试穿特写","confidence":"高"},
+ {"key":"r481","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"火热抢购中","price":true,"story":"车内开箱棕鞋+火热抢购混剪","confidence":"中"},
+ {"key":"r482","framework":"工厂溯源型","type":"老板带看工厂","person":"真人露脸主导","face3":true,"product_first":null,"product_frames":0,"hook":"身份人设","hook_text":"我们家开了三代的鞋厂","price":true,"story":"鞋厂三代口播：不好穿的鞋子丢掉免费送","confidence":"高"}
+]

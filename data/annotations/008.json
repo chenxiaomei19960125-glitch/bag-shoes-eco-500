@@ -1,0 +1,7 @@
+[
+ {"key":"r38","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"像我们这种做吃播的呀","price":true,"story":"女生对镜开箱手套并上手感讲贴合，末尾说价格点进去合适","confidence":"高"},
+ {"key":"r39","framework":"剧情型","type":"生活情景剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":5,"hook":"冲突对话","hook_text":"这个顺手帮我带下去","price":false,"story":"家里两女生互动，红色乐福鞋上脚与出门画面","confidence":"中"},
+ {"key":"r40","framework":"产品展示型","type":"收纳容量演示","person":"真人露脸辅助","face3":true,"product_first":0.3,"product_frames":10,"hook":"卖点直述","hook_text":"20吋榫卯铝框箱大容量还可登机哦","price":false,"story":"机场推箱+开箱演示：前开门、大40%、装五套西服一个月行囊","confidence":"高"},
+ {"key":"r41","framework":"人设口播型","type":"叫卖促销口播","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":6,"hook":"价格利益","hook_text":"一口价 399","price":true,"story":"亮片裙女生手持白色老爹鞋叫卖，讲增高5公分好打理","confidence":"高"},
+ {"key":"r42","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"室内暖灯背景白色厚底鞋上脚摆拍特写，无字幕","confidence":"高"}
+]

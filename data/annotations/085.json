@@ -1,0 +1,7 @@
+[
+ {"key":"r423","framework":"产品展示型","type":"开箱展示","person":"真人露脸辅助","face3":false,"product_first":3,"product_frames":9,"hook":"好奇种草","hook_text":"","price":false,"story":"黑运动鞋开箱、按压、上脚试穿","confidence":"高"},
+ {"key":"r424","framework":"产品展示型","type":"开箱展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"","price":false,"story":"铝箱开箱黑旋钮鞋与旋转扣演示","confidence":"高"},
+ {"key":"r425","framework":"产品展示型","type":"上脚上身局部","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":3,"hook":"卖点直述","hook_text":"+9cm 黑色褶皱堆堆短靴","price":false,"story":"短靴多角度试穿+口播字幕","confidence":"中"},
+ {"key":"r426","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":5,"hook":"无钩子","hook_text":"","price":false,"story":"黑色高跟鞋试穿特写","confidence":"高"},
+ {"key":"r427","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑棕乐福鞋手持摆拍特写","confidence":"高"}
+]

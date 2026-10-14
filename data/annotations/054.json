@@ -1,0 +1,7 @@
+[
+ {"key":"r268","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色加绒一脚蹬鞋弯折、上脚、踩水混剪","confidence":"中"},
+ {"key":"r269","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":1.5,"product_frames":9,"hook":"无钩子","hook_text":"","price":false,"story":"橙盒灰鞋旋钮扣演示与试穿","confidence":"高"},
+ {"key":"r270","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑白金标帆布鞋橙圆盒摆拍","confidence":"高"},
+ {"key":"r271","framework":"产品展示型","type":"上脚上身局部","person":"真人露脸辅助","face3":false,"product_first":3,"product_frames":8,"hook":"好奇种草","hook_text":"推荐 巨算","price":false,"story":"雪地靴试穿口播：我妈妈都在穿","confidence":"中"},
+ {"key":"r272","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"圣诞布景浅绿跑鞋试穿特写","confidence":"高"}
+]

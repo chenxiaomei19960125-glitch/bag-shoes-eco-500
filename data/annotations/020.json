@@ -1,0 +1,7 @@
+[
+ {"key":"r98","framework":"产品展示型","type":"收纳容量演示","person":"真人露脸辅助","face3":true,"product_first":8,"product_frames":6,"hook":"卖点直述","hook_text":"关键是大深舱","price":false,"story":"粉色行李箱深舱演示：羽绒服不用叠、1:9开合、静音轮","confidence":"高"},
+ {"key":"r99","framework":"测评实验型","type":"防水耐磨演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"视觉奇观","hook_text":"","price":false,"story":"红色洞洞鞋水流冲洗、摔打多角度测试","confidence":"高"},
+ {"key":"r100","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"绿色雨靴上脚、弯折、鞋底多角度特写","confidence":"高"},
+ {"key":"r101","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"黑色短靴室内上脚走动特写","confidence":"高"},
+ {"key":"r102","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"棕色厚底鞋赤脚试穿与上脚走动特写","confidence":"高"}
+]

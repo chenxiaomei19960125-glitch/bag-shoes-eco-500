@@ -1,0 +1,7 @@
+[
+ {"key":"r283","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"紫灰跑鞋室内试穿特写","confidence":"高"},
+ {"key":"r284","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":null,"product_frames":0,"hook":"卖点直述","hook_text":"Hello 大家好","price":false,"story":"黑衣女生坐姿口播，未见产品出镜","confidence":"低"},
+ {"key":"r285","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色健步鞋公园、泥地踩踏混剪","confidence":"中"},
+ {"key":"r286","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":1.5,"product_frames":10,"hook":"好奇种草","hook_text":"","price":false,"story":"白毛衣女生举棕色短靴讲解试穿","confidence":"中"},
+ {"key":"r287","framework":"图文型","type":"电商卡片轮播","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"价格利益","hook_text":"斯凯奇断码 捡漏价138","price":true,"story":"懒人一脚蹬静态促销卡片","confidence":"高"}
+]

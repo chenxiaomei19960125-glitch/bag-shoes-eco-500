@@ -1,0 +1,7 @@
+[
+ {"key":"r93","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"卖点直述","hook_text":"穿上就是女明星的高度","price":false,"story":"白色厚底鞋上脚行走，字幕讲显高、一周能穿7天","confidence":"中"},
+ {"key":"r94","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"身份人设","hook_text":"英国BE品牌 新款气质女包分享","price":false,"story":"酒店房坐姿口播老花托特包：皮质链条拼接、高端礼盒","confidence":"高"},
+ {"key":"r95","framework":"工厂溯源型","type":"工厂车间实拍","person":"真人露脸辅助","face3":true,"product_first":3,"product_frames":9,"hook":"身份人设","hook_text":"荣获国际红点设计大奖","price":false,"story":"广交会+机场+海关多场景：卡拉羊榫卯铝框箱、红点奖、鎏金板材","confidence":"中"},
+ {"key":"r96","framework":"人设口播型","type":"老板店主口播","person":"真人露脸辅助","face3":true,"product_first":0.3,"product_frames":9,"hook":"价格利益","hook_text":"598一双的全皮休闲鞋 厂家直销","price":true,"story":"男老板口播贴片+黑色皮鞋按压、弯折、上脚特写","confidence":"中"},
+ {"key":"r97","framework":"人设口播型","type":"选购科普口播","person":"真人露脸主导","face3":true,"product_first":8,"product_frames":5,"hook":"好奇种草","hook_text":"如何挑行李箱 买行李箱还不简单","price":false,"story":"女生科普挑箱要点：轮子声音、锁具、内里材质逐条演示","confidence":"高"}
+]

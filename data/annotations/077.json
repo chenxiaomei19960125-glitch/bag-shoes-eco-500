@@ -1,0 +1,7 @@
+[
+ {"key":"r383","framework":"图文型","type":"电商卡片轮播","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"卖点直述","hook_text":"大肠发圈缎面礼盒 蓬松显量","price":false,"story":"发圈头花静态电商卡片轮播，非鞋包","confidence":"高"},
+ {"key":"r384","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"勃牛黑皮鞋红毯摆拍与鞋底特写","confidence":"高"},
+ {"key":"r385","framework":"人设口播型","type":"选购科普口播","person":"真人露脸主导","face3":true,"product_first":null,"product_frames":0,"hook":"痛点人群点名","hook_text":"选帽子真的别只看款式","price":false,"story":"黑帽子女生口播显脸小技巧","confidence":"中"},
+ {"key":"r386","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"性价比贼拉贼拉的高","price":true,"story":"黄色背包试背：放水杯、分区收纳、自重轻防水","confidence":"高"},
+ {"key":"r387","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"紫色健步鞋开袋试穿特写","confidence":"高"}
+]

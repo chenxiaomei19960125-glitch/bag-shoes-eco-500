@@ -1,0 +1,7 @@
+[
+ {"key":"r193","framework":"产品展示型","type":"功能细节演示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"悬念反常识","hook_text":"不会还有人没穿过台湾很火的小蛮腰拖鞋吧","price":false,"story":"紫色小蛮腰拖鞋上脚：按摩颗粒、足弓支撑、EVA不断裂","confidence":"高"},
+ {"key":"r194","framework":"产品展示型","type":"摆拍展台","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑色棕底男乐福鞋摆拍与鞋底特写","confidence":"高"},
+ {"key":"r195","framework":"图文型","type":"电商卡片轮播","person":"无人物","face3":false,"product_first":0,"product_frames":1,"hook":"价格利益","hook_text":"斯凯奇断码 138","price":true,"story":"跑鞋静态促销卡片轮播","confidence":"高"},
+ {"key":"r196","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":10,"hook":"价格利益","hook_text":"你这小包挺复古的 才多少钱","price":true,"story":"车库试背米绿旅行袋：加厚料子、两侧夹层","confidence":"高"},
+ {"key":"r197","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"好奇种草","hook_text":"拖鞋年年买 这种小巧精致的还是头一次见","price":false,"story":"镜前试穿多色拖鞋：显白显瘦、防滑贴片","confidence":"高"}
+]

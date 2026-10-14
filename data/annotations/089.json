@@ -1,0 +1,7 @@
+[
+ {"key":"r443","framework":"产品展示型","type":"其他·袜子展示","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"白色花边袜穿戴与布料特写","confidence":"中"},
+ {"key":"r444","framework":"产品展示型","type":"上脚上身局部","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":9,"hook":"无钩子","hook_text":"","price":false,"story":"黑乐福鞋办公室试穿与踢腿展示","confidence":"高"},
+ {"key":"r445","framework":"产品展示型","type":"上脚上身局部","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"灰紫老爹鞋夜市试穿特写","confidence":"高"},
+ {"key":"r446","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":0.3,"product_frames":6,"hook":"无钩子","hook_text":"","price":false,"story":"橙色运动鞋商场扶梯行走特写","confidence":"高"},
+ {"key":"r447","framework":"剧情型","type":"搭讪问询剧","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"冲突对话","hook_text":"我看你后面这个包包好好看哦","price":true,"story":"地下车库问包：香港古乔大金包、送小金球、活动赠品","confidence":"高"}
+]

@@ -1,0 +1,7 @@
+[
+ {"key":"r73","framework":"人设口播型","type":"博主种草口播","person":"真人露脸主导","face3":true,"product_first":3,"product_frames":8,"hook":"好奇种草","hook_text":"小丸子","price":false,"story":"女生展示红色证件收纳册，逐层演示机动车登记证书收纳","confidence":"中"},
+ {"key":"r74","framework":"人设口播型","type":"老板店主口播","person":"真人露脸主导","face3":true,"product_first":0.3,"product_frames":8,"hook":"身份人设","hook_text":"星空皮具 只做真皮","price":false,"story":"男店主对镜举黑色斜挎包讲头层牛皮，指向五金细节","confidence":"高"},
+ {"key":"r75","framework":"剧情型","type":"路人劝说剧","person":"真人露脸主导","face3":true,"product_first":5,"product_frames":6,"hook":"冲突对话","hook_text":"哎阿姨不要这样穿 哪有人穿运动鞋出门","price":false,"story":"商超阿姨劝说剧，末尾杏色软底鞋弯折、上脚特写","confidence":"高"},
+ {"key":"r76","framework":"产品展示型","type":"手持转面展示","person":"真人露脸辅助","face3":false,"product_first":0.3,"product_frames":10,"hook":"无钩子","hook_text":"","price":false,"story":"黑灰通勤包摆拍、开合、背携多角度展示","confidence":"中"},
+ {"key":"r77","framework":"街拍穿搭型","type":"街拍上脚混剪","person":"仅身体局部","face3":false,"product_first":1.5,"product_frames":8,"hook":"无钩子","hook_text":"","price":false,"story":"白色厚底洞洞鞋车内与商场自动门上脚走动","confidence":"中"}
+]
